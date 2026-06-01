@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "about": "À Propos",
+    "services": "Traitements",
+    "doctors": "Nos Médecins",
+    "articles": "Articles",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Votre Sourire est",
+    "titleHighlight": "Votre Confiance",
+    "subtitle": "Atteignez le sourire sain de vos rêves avec une dentisterie numérique moderne, éthique et orientée patient chez Dentpol Söğütönü.",
+    "primaryButton": "Prendre Rendez-vous",
+    "secondaryButton": "Nos Services"
+  },
+  "services": {
+    "badge": "Nos Spécialités",
+    "title": "Traitements ",
+    "titleHighlight": "Dentaires",
+    "subtitle": "De l'esthétique à la chirurgie, de l'orthodontie aux implants — nous sommes à vos côtés.",
+    "filterAll": "Tous",
+    "learnMore": "En Savoir Plus",
+    "items": [
+      { "title": "Implants Dentaires", "category": "Chirurgie", "desc": "Solution permanente, naturelle et esthétique pour vos dents manquantes. Implants en titane de nouvelle génération." },
+      { "title": "Extraction Chirurgicale", "category": "Chirurgie", "desc": "Extraction chirurgicale sûre des dents de sagesse incluses et des dents non émergées." },
+      { "title": "Implants Zygomatiques", "category": "Chirurgie", "desc": "Implants spéciaux fixés dans l'os de la pommette pour les patients souffrant de perte osseuse sévère." },
+      { "title": "Traitement de Canal", "category": "Endodontie", "desc": "Traitement endodontique moderne pour sauver les dents infectées de manière indolore." },
+      { "title": "Traitement Orthodontique", "category": "Orthodontie", "desc": "Correction des encombrements dentaires et des relations maxillaires à l'aide de bagues métalliques ou céramiques." },
+      { "title": "Aligneurs Transparents (Invisalign)", "category": "Orthodontie", "desc": "Correction dentaire confortable avec des aligneurs transparents sans fil invisibles et amovibles." },
+      { "title": "Dentisterie Pédiatrique", "category": "Pédodontie", "desc": "Soins préventifs, application de fluor, scellement de sillons et obturations pédiatriques pour enfants." },
+      { "title": "Soin des Gencives", "category": "Parodontologie", "desc": "Traitement des parodontites provoquant saignements, récessions gingivales et perte d'os." },
+      { "title": "Nettoyage Air Flow", "category": "Parodontologie", "desc": "Nettoyage en profondeur des taches et de la plaque à l'aide d'un jet d'eau-air-poudre sous pression." },
+      { "title": "Facettes en Zircone", "category": "Prothétique", "desc": "Couronnes en zircone sans métal hautement esthétiques offrant la meilleure translucidité naturelle." },
+      { "title": "Pont Dentaire", "category": "Prothétique", "desc": "Restauration fixe traditionnelle pour combler l'espace créé par une ou plusieurs dents manquantes." },
+      { "title": "Prothèses sur Implants", "category": "Prothétique", "desc": "Prothèses modernes fixes ou amovibles stabilisées sur implants pour un confort masticatoire total." },
+      { "title": "All-on-Four", "category": "Prothétique", "desc": "Technique avancée permettant de fixer une prothèse temporaire le jour même avec seulement 4 implants." },
+      { "title": "All-on-Six", "category": "Prothétique", "desc": "Prothèse hybride fixe sur 6 implants offrant la force de mastication la plus élevée et une stabilité maximale." },
+      { "title": "Prothèses Overdenture", "category": "Prothétique", "desc": "Prothèses amovibles à boutons-pression avec une rétention accrue soutenue par quelques dents ou implants." },
+      { "title": "Dentisterie Prothétique", "category": "Prothétique", "desc": "Restaurations fixes ou amovibles sur mesure pour restaurer les dents perdues et la fonction masticatoire." },
+      { "title": "Blanchiment Dentaire", "category": "Esthétique", "desc": "Blanchiment au laser en clinique ou à domicile pour éclaircir la teinte des dents en toute sécurité." },
+      { "title": "Facettes en Porcelaine", "category": "Esthétique", "desc": "Facettes très fines en porcelaine appliquées sur la face avant des dents avec une préparation minimale." },
+      { "title": "Conception du Sourire", "category": "Esthétique", "desc": "Analyse numérique et planification esthétique de votre sourire idéal en harmonie avec les traits du visage." },
+      { "title": "Troubles de l'ATM", "category": "Autre", "desc": "Thérapies par gouttières contre le serrement des dents, le grincement nocturne et les douleurs articulaires." },
+      { "title": "Dentisterie Numérique", "category": "Autre", "desc": "Empreintes 3D rapides, précises et confortables grâce aux scanners optiques et usineuses CAD/CAM." },
+      { "title": "Botox Masséter", "category": "Autre", "desc": "Injections de toxine botulique dans le muscle masséter pour soulager le bruxisme et affiner les traits." },
+      { "title": "Gouttière Nocturne", "category": "Autre", "desc": "Gouttière transparente sur mesure protégeant les dents et les articulations des frottements nocturnes." }
+    ],
+    "categories": ["Tous", "Chirurgie", "Endodontie", "Orthodontie", "Pédodontie", "Parodontologie", "Prothétique", "Esthétique", "Autre"]
+  },
+  "features": {
+    "title": "Pourquoi Dentpol Söğütönü?",
+    "subtitle": "Nous offrons une expérience innovante, fiable et confortable pour votre santé bucco-dentaire à Eskişehir.",
+    "items": [
+      { "title": "Dentisterie Numérique", "desc": "Planification de traitement confortable, rapide et sans erreur avec des scanners intra-oraux 3D et des appareils modernes." },
+      { "title": "Stérilisation de haut niveau", "desc": "Un environnement de traitement maximalement sûr avec des protocoles de stérilisation répondant aux normes internationales." },
+      { "title": "Traitement le Jour Même", "desc": "Nous minimisons le temps d'attente pour les procédures en zircone et prothétiques avec notre propre infrastructure de laboratoire." },
+      { "title": "Confort Orienté Patient", "desc": "Nous avons pensé à chaque détail pour que vous puissiez passer votre traitement dans un environnement calme et confortable." }
+    ]
+  },
+  "about": {
+    "badge": "Qui Sommes-Nous?",
+    "title": "Une Nouvelle Approche",
+    "titleHighlight": "en Dentisterie Moderne",
+    "description": "En tant que Clinique Dentaire Dentpol Söğütönü, nous servons à Eskişehir pour protéger, traiter votre santé bucco-dentaire et vous donner un sourire confiant. Sous la direction du Dr. Esra Nehir Altıçek, nous sécurisons votre santé avec des approches de traitement actuelles et des technologies numériques.",
+    "learnMore": "En Savoir Plus Sur Nous",
+    "features": [
+      "Infrastructure de Dentisterie Numérique",
+      "Traitement Personnalisé Centré sur le Patient",
+      "Environnement Clinique Stérile et Sûr",
+      "Tarification Éthique et Transparente"
+    ]
+  },
+  "location": {
+    "title": "Localisation & Contact",
+    "subtitle": "Rejoignez facilement notre clinique. Nous serions heureux de vous accueillir.",
+    "contactTitle": "Nous Contacter",
+    "address": "Adresse",
+    "addressValue": "Aşağı Söğütönü Mah. 1528. Sk. No: 4/A Tepebaşı / Eskişehir",
+    "phone": "Téléphone",
+    "email": "E-Mail",
+    "hours": "Heures d'ouverture",
+    "hoursValue": "Lun - Sam: 09:00 - 19:00",
+    "closed": "Dimanche: Fermé",
+    "directions": "Itinéraire sur Google Maps",
+    "howToGetThereTitle": "Comment s'y rendre ?",
+    "tramInfo": "Vous pouvez prendre les tramways en direction de SSK, descendre au terminus et prendre facilement l'une des lignes de bus ci-dessous pour rejoindre notre clinique.",
+    "transportOptions": [
+      "Bus : Vous pouvez rejoindre notre clinique via les lignes 23, 54 et 58.",
+      "Minibus : Les minibus Söğütönü - Centre passent près de notre clinique.",
+      "Tramway : Vous pouvez utiliser la ligne SSK - Batıkent et faire une correspondance avec les bus circulaires."
+    ]
+  },
+  "articles": {
+    "badge": "Dernières Actualités",
+    "title": "Articles sur la ",
+    "titleHighlight": "Santé Dentaire",
+    "viewAll": "Tous les Articles",
+    "readMore": "Lire la Suite"
+  },
+  "footer": {
+    "description": "Les sourires confiants commencent chez Dentpol Söğütönü. Une approche de dentisterie numérique moderne, éthique et centrée sur le patient.",
+    "quickLinks": "Liens Rapides",
+    "services": "Nos Services",
+    "contact": "Nous Contacter",
+    "rights": "© 2026 Dentpol Söğütönü ADSP. Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "cookies": "Politique des Cookies"
+  },
+  "aboutPage": {
+    "hero": {
+      "badge": "À Propos de Nous",
+      "title": "Nous Sommes Là Pour",
+      "titleHighlight": "Des Sourires Sains",
+      "subtitle": "Nous marchons avec vous pendant des années à Eskişehir avec une dentisterie numérique, une approche éthique et une compréhension centrée sur le patient."
+    },
+    "story": {
+      "badge": "Notre Histoire",
+      "title": "Comment est Né",
+      "titleHighlight": "Dentpol Söğütönü?",
+      "p1": "La Clinique Dentpol Söğütönü a été fondée avec le rêve de créer une clinique où les patients sont vraiment valorisés, correctement informés et où la technologie moderne rencontre la chaleur humaine.",
+      "p2": "Sous la direction du Dr. Esra Nehir Altıçek, notre clinique a ouvert ses portes en 2018 à Eskişehir Söğütönü et est rapidement devenue l'une des adresses de santé de confiance de la région, avec une équipe spécialisée en implantologie, dentisterie esthétique, orthodontie et conception de sourire numérique.",
+      "p3": "Aujourd'hui, nous poursuivons notre voyage avec des milliers de patients satisfaits et une infrastructure technologique continuellement mise à jour. Nous voyons chaque patient comme un individu et préparons des plans de traitement adaptés à chaque personne."
+    },
+    "values": {
+      "badge": "Nos Valeurs",
+      "title": "Les Principes",
+      "titleHighlight": "Qui Nous Définissent",
+      "items": [
+        { "title": "Pratique Éthique", "desc": "Nous construisons la confiance en fournissant toujours des informations honnêtes, transparentes et scientifiquement fondées à nos patients." },
+        { "title": "Pionnier Numérique", "desc": "Nous menons l'industrie avec des scanners 3D, des systèmes CAD/CAM et la conception de sourire numérique." },
+        { "title": "Confort du Patient", "desc": "Notre clinique offre un environnement soigneusement conçu pour réduire l'anxiété et augmenter la tranquillité d'esprit." },
+        { "title": "Traitement Personnalisé", "desc": "Chaque patient a une structure buccale, des attentes et un mode de vie différents. Le plan de traitement est façonné en conséquence." },
+        { "title": "Priorité à la Stérilisation", "desc": "Tous les instruments sont stérilisés conformément aux protocoles internationaux pour maintenir la sécurité des patients au plus haut niveau." },
+        { "title": "Amélioration Continue", "desc": "Notre équipe se tient constamment à jour grâce aux congrès, aux formations spécialisées et aux publications scientifiques." }
+      ]
+    },
+    "cta": {
+      "title": "Faites le Premier Pas",
+      "titleHighlight": "pour un Sourire Sain",
+      "subtitle": "Rencontrez notre équipe d'experts, posez vos questions et laissez-nous créer votre plan de traitement personnalisé.",
+      "primaryButton": "Prendre Rendez-vous",
+      "secondaryButton": "Nous Contacter"
+    }
+  },
+  "treatmentsPage": {
+    "hero": {
+      "badge": "Nos Traitements",
+      "title": "Services Dentaires",
+      "titleHighlight": "Complets",
+      "subtitle": "Des implants à la dentisterie esthétique, de l'orthodontie au traitement de canal — nous sommes à vos côtés."
+    },
+    "detailTitle": "Détail du Traitement",
+    "items": [
+      {
+        "title": "Implants Dentaires",
+        "category": "Chirurgie",
+        "shortDesc": "Solution permanente, naturelle et esthétique pour vos dents manquantes. Implants en titane de nouvelle génération.",
+        "longDesc": "La thérapie implantaire consiste à placer des tenons en titane biocompatibles dans l'os maxillaire comme racines artificielles. Après l'ostéoinégration, les couronnes ou les ponts sont solidement fixés pour restaurer la fonction masticatoire.",
+        "benefits": ["Dents adjacentes intactes", "Sensation naturelle", "Prévient la perte osseuse", "Durable"]
+      },
+      {
+        "title": "Extraction Chirurgicale",
+        "category": "Chirurgie",
+        "shortDesc": "Extraction chirurgicale sûre des dents de sagesse incluses et des dents non émergées.",
+        "longDesc": "L'extraction chirurgicale concerne le retrait des dents restées sous l'os ou la gencive. Recommandé notamment pour les dents de sagesse incluses afin d'éviter douleurs, kystes et infections.",
+        "benefits": ["Élimine la douleur et les gonflements", "Protège les racines voisines", "Élimine les foyers infectieux", "Prévient l'encombrement dentaire"]
+      },
+      {
+        "title": "Implants Zygomatiques",
+        "category": "Chirurgie",
+        "shortDesc": "Implants spéciaux fixés dans l'os de la pommette pour les patients souffrant de perte osseuse sévère.",
+        "longDesc": "Les implants zygomatiques sont des implants longs ancrés directement dans l'os de la pommette (zygoma) en cas de résorption extrême du maxillaire supérieur, évitant ainsi les greffes osseuses complexes.",
+        "benefits": ["Pas de greffe osseuse ou sinus lift requis", "Dents fixes le jour même", "Solution pour résorption extrême", "Protocole clinique très sûr"]
+      },
+      {
+        "title": "Traitement de Canal",
+        "category": "Endodontie",
+        "shortDesc": "Traitement endodontique moderne pour sauver les dents infectées de manière indolore.",
+        "longDesc": "Le traitement de canal (endodontie) sauve une dent dont la pulpe (nerf) est enflammée ou infectée suite à une carie profonde. Le canal est nettoyé, désinfecté et obturé de façon étanche.",
+        "benefits": ["Sauve la dent naturelle", "Soulage les douleurs aiguës", "Arrête la propagation de l'infection", "Évite l'extraction immédiate"]
+      },
+      {
+        "title": "Traitement Orthodontique",
+        "category": "Orthodontie",
+        "shortDesc": "Correction des encombrements dentaires et des relations maxillaires à l'aide de bagues métalliques ou céramiques.",
+        "longDesc": "L'orthodontie corrige l'alignement des dents et les décalages des mâchoires à l'aide de brackets métalliques ou esthétiques en céramique pour un parfait équilibre fonctionnel et esthétique.",
+        "benefits": ["Résout les chevauchements dentaires", "Améliore la mastication et l'élocution", "Facilite l'hygiène bucco-dentaire", "Harmonise l'esthétique du sourire"]
+      },
+      {
+        "title": "Aligneurs Transparents (Invisalign)",
+        "category": "Orthodontie",
+        "shortDesc": "Correction dentaire confortable avec des aligneurs transparents sans fil invisibles et amovibles.",
+        "longDesc": "Les aligneurs transparents redressent les dents grâce à une série de gouttières en plastique transparent conçues par ordinateur. Amovibles, ils garantissent un confort et une hygiène absolus.",
+        "benefits": ["Pratiquement invisible et esthétique", "Amovible pour les repas et brossages", "Brossage et passage du fil très aisés", "Pas de brackets irritants ni de fils métalliques"]
+      },
+      {
+        "title": "Dentisterie Pédiatrique",
+        "category": "Pédodontie",
+        "shortDesc": "Soins préventifs, application de fluor, scellement de sillons et obturations pédiatriques pour enfants.",
+        "longDesc": "La pédodontie suit le développement bucco-dentaire des enfants (0-14 ans). Notre but est d'offrir des soins sans crainte grâce à des techniques ludiques, des scellements de sillons et des applications de fluor.",
+        "benefits": ["Prévient l'anxiété chez le dentiste", "Renforce l'émail contre les caries", "Conserve les dents de lait comme guides", "Encourage de bonnes habitudes de brossage"]
+      },
+      {
+        "title": "Soin des Gencives",
+        "category": "Parodontologie",
+        "shortDesc": "Traitement des parodontites provoquant saignements, récessions gingivales et perte d'os.",
+        "longDesc": "La parodontologie traite les infections des gencives et des tissus de soutien. Nous stoppons la parodontite par des détartrages profonds et surfaçages radiculaires méticuleux.",
+        "benefits": ["Soigne les saignements et l'halitose", "Contrôle les récessions gingivales", "Prévient la perte d'os alvéolaire", "Sauve les dents mobiles de l'extraction"]
+      },
+      {
+        "title": "Nettoyage Air Flow",
+        "category": "Parodontologie",
+        "shortDesc": "Nettoyage en profondeur des taches et de la plaque à l'aide d'un jet d'eau-air-poudre sous pression.",
+        "longDesc": "Le système Air Flow élimine les taches tenaces (tabac, café, thé, vin) et la plaque grâce à un jet sous pression combinant eau, air et fine poudre de bicarbonate, polissant l'émail tout en douceur.",
+        "benefits": ["Élimine rapidement les taches de tabac et café", "Très doux, sans danger pour l'émail", "Procédure rapide et sans douleur", "Sensation immédiate de fraîcheur et d'éclat"]
+      },
+      {
+        "title": "Facettes en Zircone",
+        "category": "Prothétique",
+        "shortDesc": "Couronnes en zircone sans métal hautement esthétiques offrant la meilleure translucidité naturelle.",
+        "longDesc": "Les facettes et couronnes en zircone sont fabriquées en dioxyde de zirconium biocompatible et ultra-résistant. Sans armature métallique, elles offrent une excellente transmission de la lumière sans liseré gris.",
+        "benefits": ["100 % sans métal et hypoallergénique", "Pas de liseré gris au niveau de la gencive", "Aspect translucide identique aux dents naturelles", "Grande résistance, idéal pour toutes les dents"]
+      },
+      {
+        "title": "Pont Dentaire",
+        "category": "Prothétique",
+        "shortDesc": "Restauration fixe traditionnelle pour combler l'espace créé par une ou plusieurs dents manquantes.",
+        "longDesc": "Le pont dentaire comble une ou plusieurs dents manquantes en s'appuyant sur les dents voisines préalablement couronnées. Il rétablit la mastication et évite le déplacement des dents.",
+        "benefits": ["Solution prothétique rapide et éprouvée", "Restaure immédiatement la force masticatoire", "Améliore l'élocution altérée par la perte dentaire", "Empêche les dents adjacentes de dériver"]
+      },
+      {
+        "title": "Prothèses sur Implants",
+        "category": "Prothétique",
+        "shortDesc": "Prothèses modernes fixes ou amovibles stabilisées sur implants pour un confort masticatoire total.",
+        "longDesc": "Les prothèses sur implants sont fixées sur des implants (boutons-pression/locators ou barres). Elles ne bougent jamais, éliminent les douleurs de frottement et restaurent un kaugegefühl total.",
+        "benefits": ["Aucun risque de glissement ou de chute en parlant", "Rétablit l'élocution et la force masticatoire", "Conception sans palais préservant le goût", "Sensation de sécurité et confort naturel"]
+      },
+      {
+        "title": "All-on-Four",
+        "category": "Prothétique",
+        "shortDesc": "Technique avancée permettant de fixer une prothèse temporaire le jour même avec seulement 4 implants.",
+        "longDesc": "Le concept All-on-Four permet la réhabilitation complète d'une mâchoire édentée en fixant une prothèse temporaire fixe le jour même sur exactement 4 implants placés de manière stratégique.",
+        "benefits": ["Dents fixes et fonctionnelles le jour même", "Économique avec moins d'implants", "Évite souvent les greffes osseuses lourdes", "Récupération très rapide et grand confort"]
+      },
+      {
+        "title": "All-on-Six",
+        "category": "Prothétique",
+        "shortDesc": "Prothèse hybride fixe sur 6 implants offrant la force de mastication la plus élevée et une stabilité maximale.",
+        "longDesc": "Le protocole All-on-Six est recommandé lorsque la masse osseuse le permet. Six implants soutiennent une prothèse complète vissée. Le grand nombre de piliers répartit la pression pour une longévité maximale.",
+        "benefits": ["Stabilité ultime et force de mastication maximale", "Excellente répartition des charges dans le temps", "Esthétique identique aux dents naturelles", "Prothèse 100 % fixe, non amovible"]
+      },
+      {
+        "title": "Prothèses Overdenture",
+        "category": "Prothétique",
+        "shortDesc": "Prothèses amovibles à boutons-pression avec une rétention accrue soutenue par quelques dents ou implants.",
+        "longDesc": "Une overdenture (surdenture) est une prothèse amovible hautement stable clipsée sur des implants (généralement 2). Elle élimine le flottement des dentiers tout en restant facile à retirer pour l'hygiène.",
+        "benefits": ["Empêche tout glissement du dentier", "Réduit les irritations et les douleurs gingivales", "Solution conservatrice préservant l'os", "Entretien et nettoyage très simples"]
+      },
+      {
+        "title": "Dentisterie Prothétique",
+        "category": "Prothétique",
+        "shortDesc": "Restaurations fixes ou amovibles sur mesure pour restaurer les dents perdues et la fonction masticatoire.",
+        "longDesc": "La prothèse dentaire vise à restaurer les fonctions masticatoires et l'esthétique du visage des patients ayant perdu des dents. Les prothèses complètes ou partielles sont réalisées sur mesure.",
+        "benefits": ["Évite l'affaissement des traits du visage", "Corrige les défauts d'élocution liés aux pertes", "Rétablit des forces de mastication équilibrées", "Solutions variées adaptées à tous les budgets"]
+      },
+      {
+        "title": "Blanchiment Dentaire",
+        "category": "Esthétique",
+        "shortDesc": "Blanchiment au laser en clinique ou à domicile pour éclaircir la teinte des dents en toute sécurité.",
+        "longDesc": "Le blanchiment (bleaching) élimine les colorations de l'émail en toute sécurité. Activé par laser ou lampe LED au fauteuil en moins d'une heure, il éclaircit les dents de 3 à 4 teintes.",
+        "benefits": ["Résultats ultra-rapides (moins d'une heure)", "Formules chimiques sûres préservant l'émail", "Blancheur éclatante, durable et naturelle", "Améliore instantanément l'éclat du sourire"]
+      },
+      {
+        "title": "Facettes en Porcelaine",
+        "category": "Esthétique",
+        "shortDesc": "Facettes très fines en porcelaine appliquées sur la face avant des dents avec une préparation minimale.",
+        "longDesc": "Les facettes en porcelaine sont de très fines pellicules de céramique collées sur l'avant des dents pour corriger forme, couleur, alignement ou espacements, nécessitant un meulage infime de l'émail (0,3 à 0,7 mm).",
+        "benefits": ["Préservation maximale de la dent saine", "Matériau résistant aux taches à long terme", "Rendu translucide identique aux vraies dents", "Nouveau sourire éclatant en 7 à 10 jours"]
+      },
+      {
+        "title": "Conception du Sourire",
+        "category": "Esthétique",
+        "shortDesc": "Analyse numérique et planification esthétique de votre sourire idéal en harmonie avec les traits du visage.",
+        "longDesc": "La conception numérique du sourire (Digital Smile Design) planifie virtuellement le sourire parfait en analysant les proportions du visage, des lèvres, des gencives et de la peau avant de commencer le traitement.",
+        "benefits": ["Aperçu réaliste du résultat final", "Design sur mesure 100 % adapté au visage", "Harmonie parfaite entre dents et gencives", "Plan de traitement esthétique cohérent"]
+      },
+      {
+        "title": "Troubles de l'ATM",
+        "category": "Autre",
+        "shortDesc": "Thérapies par gouttières contre le serrement des dents, le grincement nocturne et les douleurs articulaires.",
+        "longDesc": "Les dysfonctionnements de l'articulation temporo-mandibulaire (ATM) provoquent craquements, blocages, maux de tête et douleurs cervicales. Nous les traitons par des gouttières de stabilisation nocturnes.",
+        "benefits": ["Résout les craquements articulaires gênants", "Permet des mouvements de mâchoire sans douleur", "Soulage les maux de tête et cervicales associés", "Prévient les dommages articulaires permanents"]
+      },
+      {
+        "title": "Dentisterie Numérique",
+        "category": "Autre",
+        "shortDesc": "Empreintes 3D rapides, précises et confortables grâce aux scanners optiques et usineuses CAD/CAM.",
+        "longDesc": "La dentisterie numérique remplace les pâtes d'empreinte désagréables par un scanner intraoral 3D haute précision. Les restaurations sont conçues à l'écran puis usinées en quelques minutes.",
+        "benefits": ["Fini le réflexe nauséeux des pâtes d'empreinte", "Scan 3D ultra-rapide et confortable", "Précision d'ajustement au micromètre près", "Réduit considérablement le nombre de rendez-vous"]
+      },
+      {
+        "title": "Botox Masséter",
+        "category": "Autre",
+        "shortDesc": "Injections de toxine botulique dans le muscle masséter pour soulager le bruxisme et affiner les traits.",
+        "longDesc": "Les injections de Botox dans le muscle masséter relaxent la mâchoire et réduisent les forces involontaires de serrement nocturne, protégeant les dents tout en affinant et adoucissant l'ovale du visage.",
+        "benefits": ["Réduit fortement le bruxisme nocturne", "Protège l'émail et les couronnes de la casse", "Détend la mâchoire et affine le bas du visage", "Séance rapide en moins de 10 minutes"]
+      },
+      {
+        "title": "Gouttière Nocturne",
+        "category": "Autre",
+        "shortDesc": "Gouttière transparente sur mesure protégeant les dents et les articulations des frottements nocturnes.",
+        "longDesc": "La gouttière occlusale nocturne est un appareil transparent thermoformé sur mesure. Portée pendant le sommeil, elle forme une barrière de protection absorbant la pression pour préserver l'émail et l'articulation.",
+        "benefits": ["Protège l'émail de l'usure prématurée", "Évite la fracture des obturations et couronnes", "Soulage les tensions et maux de mâchoire matinaux", "Légère, confortable et facile à entretenir"]
+      }
+    ],
+    "cta": {
+      "title": "Quel Traitement Vous Convient?",
+      "titleHighlight": "Décidons Ensemble",
+      "subtitle": "Rencontrez notre équipe lors d'une première consultation gratuite.",
+      "button": "Prendre Rendez-vous"
+    }
+  },
+  "doctorsPage": {
+    "hero": {
+      "badge": "Nos Médecins",
+      "title": "Rencontrez Notre",
+      "titleHighlight": "Équipe d'Experts",
+      "subtitle": "Nos médecins spécialistes, combinant des années d'expérience avec la technologie moderne, redesignent votre sourire."
+    },
+    "expertiseLabel": "Domaines d'Expertise",
+    "appointmentButton": "Prendre Rendez-vous",
+    "doctors": [
+      { "name": "Dt. Esra Nehir Altıçek", "title": "Fondatrice de la Clinique & Dentiste Généraliste", "bio": "Diplômée de la Faculté de Chirurgie Dentaire de l'Université Hacettepe en 2014, Dt. Esra Nehir Altıçek a reçu des formations nationales et internationales en implantologie et dentisterie esthétique. En tant que fondatrice de Dentpol Söğütönü, elle développe la clinique avec une vision centrée sur le patient.", "specialties": ["Implantologie", "Dentisterie Esthétique", "Conception de Sourire Numérique", "Dentisterie Générale"] },
+      { "name": "Dt. Spécialiste Ayşe Demir", "title": "Spécialiste en Dentisterie Pédiatrique", "bio": "La Dt. Spécialiste Ayşe Demir, qui s'est spécialisée en dentisterie pédiatrique, est connue pour ses techniques de communication spéciales et ses méthodes de traitement ludiques visant à minimiser la peur dentaire chez les enfants.", "specialties": ["Dentisterie Pédiatrique", "Scellement des Sillons", "Application de Fluor", "Traitements des Dents de Lait"] },
+      { "name": "Dt. Spécialiste Mehmet Çelik", "title": "Spécialiste en Orthodontie", "bio": "Le Dt. Spécialiste Mehmet Çelik, ayant achevé sa spécialisation en orthodontie à l'Université Ege, possède des certificats avancés en aligneurs transparents (Invisalign) et traitements orthodontiques fixes modernes.", "specialties": ["Orthodontie", "Aligneurs Transparents (Invisalign)", "Alignement Maxillaire", "Traitements de Rétention"] }
+    ],
+    "cta": {
+      "title": "Pour Prendre Rendez-vous",
+      "titleHighlight": "Appelez-Nous",
+      "subtitle": "Vous pouvez prendre rendez-vous immédiatement pour rencontrer l'un de nos médecins spécialistes.",
+      "button": "Prendre Rendez-vous"
+    }
+  },
+  "gallery": {
+    "badge": "Notre Clinique",
+    "title": "Environnement de Traitement",
+    "titleHighlight": "Moderne & Confortable",
+    "subtitle": "Découvrez notre clinique qui combine hygiène, technologie et esthétique."
+  },
+  "appointment": {
+    "badge": "Rendez-vous En Ligne",
+    "title": "Demander un",
+    "titleHighlight": "Rendez-vous",
+    "subtitle": "Remplissez le formulaire et nous vous rappellerons dans les plus brefs délais.",
+    "name": "Nom Complet",
+    "namePlaceholder": "Entrez votre nom complet",
+    "phone": "Téléphone",
+    "phonePlaceholder": "+90 5XX XXX XX XX",
+    "service": "Sujet de Traitement",
+    "servicePlaceholder": "Sur quoi souhaitez-vous vous renseigner?",
+    "date": "Date Préférée",
+    "note": "Votre Note",
+    "notePlaceholder": "Informations supplémentaires...",
+    "submit": "Demander un Rendez-vous",
+    "success": "Votre demande a été reçue! Nous vous rappellerons dès que possible.",
+    "services": ["Implants Dentaires", "Extraction Chirurgicale", "Implants Zygomatiques", "Traitement de Canal", "Traitement Orthodontique", "Aligneurs Transparents (Invisalign)", "Dentisterie Pédiatrique", "Soin des Gencives", "Nettoyage Air Flow", "Facettes en Zircone", "Pont Dentaire", "Prothèses sur Implants", "All-on-Four", "All-on-Six", "Prothèses Overdenture", "Dentisterie Prothétique", "Blanchiment Dentaire", "Facettes en Porcelaine", "Conception du Sourire", "Troubles de l'ATM", "Dentisterie Numérique", "Botox Masséter", "Gouttière Nocturne", "Autre"]
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "Contact",
+      "title": "Contactez",
+      "titleHighlight": "Nous",
+      "subtitle": "Prenez rendez-vous ou obtenez des informations en utilisant les coordonnées ci-dessous ou en remplissant le formulaire."
+    },
+    "infoTitle": "Informations de Contact",
+    "howToTitle": "Comment nous rejoindre?",
+    "appointmentTitle": "Prendre",
+    "appointmentHighlight": "Rendez-vous",
+    "appointmentSubtitle": "Remplissez le formulaire et notre équipe d'experts vous rappellera dans les plus brefs délais.",
+    "phoneValue": "0222 502 00 26",
+    "emailValue": "bilgi@dentpol.com.tr",
+    "mapLink": "Voir sur Google Maps",
+    "whatsapp": "Écrire sur WhatsApp"
+  }
+}

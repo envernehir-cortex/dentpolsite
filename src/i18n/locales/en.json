@@ -1,0 +1,401 @@
+{
+  "nav": {
+    "about": "About Us",
+    "services": "Treatments",
+    "doctors": "Our Doctors",
+    "articles": "Articles",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Your Smile is",
+    "titleHighlight": "Your Confidence",
+    "subtitle": "Achieve the healthy smile of your dreams with modern, ethical, and patient-oriented digital dentistry at Dentpol Söğütönü.",
+    "primaryButton": "Book Appointment",
+    "secondaryButton": "Our Services"
+  },
+  "services": {
+    "badge": "Our Specialties",
+    "title": "Dental ",
+    "titleHighlight": "Treatments",
+    "subtitle": "From aesthetics to surgery, from orthodontics to implants — we are by your side.",
+    "filterAll": "All",
+    "learnMore": "Learn More",
+    "items": [
+      { "title": "Dental Implants", "category": "Surgery", "desc": "Permanent, natural, and aesthetic solution for missing teeth that feels closest to natural roots." },
+      { "title": "Impacted Tooth Extraction", "category": "Surgery", "desc": "Safe surgical extraction of non-erupting wisdom teeth and other impacted teeth." },
+      { "title": "Zygomatic Implants", "category": "Surgery", "desc": "Innovative zygomatic implants anchored in the cheekbone for patients with severe bone loss." },
+      { "title": "Root Canal", "category": "Endodontics", "desc": "Microscopic endodontic treatment to save infected or deeply decayed teeth painlessly." },
+      { "title": "Orthodontic Treatment", "category": "Orthodontics", "desc": "Correction of crowded teeth and jaw relationships using metal or aesthetic braces." },
+      { "title": "Clear Aligners (Invisalign)", "category": "Orthodontics", "desc": "Comfortable teeth straightening with completely invisible and removable transparent aligners." },
+      { "title": "Pediatric Dentistry", "category": "Pedodontics", "desc": "Preventive services, decay protection, fluoride, and deciduous tooth fillings tailored for children." },
+      { "title": "Gum Treatment", "category": "Periodontology", "desc": "Professional treatment for gum diseases (periodontitis) causing bleeding, recession, and bone loss." },
+      { "title": "Air Flow Clean", "category": "Periodontology", "desc": "Deep removal of all stains, plaque, and discolorations on teeth with air-water-powder pressure." },
+      { "title": "Zirconia Veneers", "category": "Prosthetics", "desc": "Metal-free, highly aesthetic zirconia crowns providing the closest light transmission to natural teeth." },
+      { "title": "Dental Bridge", "category": "Prosthetics", "desc": "Traditional fixed restoration to bridge the gap created by one or more missing teeth." },
+      { "title": "Implant-Supported Dentures", "category": "Prosthetics", "desc": "Highly stable, implant-retained fixed or removable modern dentures for complete comfort." },
+      { "title": "All-on-Four", "category": "Prosthetics", "desc": "Advanced protocol providing fixed temporary teeth on the same day using only 4 implants." },
+      { "title": "All-on-Six", "category": "Prosthetics", "desc": "Fixed hybrid bridge on 6 implants offering the highest chewing force and premium stability." },
+      { "title": "Overdenture", "category": "Prosthetics", "desc": "Snap-on removable dentures with enhanced retention supported by a few teeth or implants." },
+      { "title": "Prosthetic Dentistry", "category": "Prosthetics", "desc": "Custom-designed fixed or removable restorations to restore lost teeth and chewing function." },
+      { "title": "Teeth Whitening", "category": "Aesthetics", "desc": "In-office laser or custom take-home whitening to safely brighten teeth by several shades." },
+      { "title": "Laminate Veneers", "category": "Aesthetics", "desc": "Porcelain shell laminates applied to the front of teeth, requiring minimal preparation." },
+      { "title": "Smile Design", "category": "Aesthetics", "desc": "Digital analysis and aesthetic planning for a flawless smile matching facial contours." },
+      { "title": "TMJ Treatment", "category": "Other", "desc": "Protective splint therapies for jaw joint clicking, grinding, clenching, and joint pain." },
+      { "title": "Digital Dentistry", "category": "Other", "desc": "Fast, precise, and comfortable digital impressions using 3D scanners and CAD/CAM units." },
+      { "title": "Masseter Botox", "category": "Other", "desc": "Injections into the chewing muscle to relieve teeth grinding and clenching (bruksizm)." },
+      { "title": "Night Guard", "category": "Other", "desc": "Custom transparent guard protecting teeth and joints from involuntary sleep grinding." }
+    ],
+    "categories": ["All", "Surgery", "Endodontics", "Orthodontics", "Pedodontics", "Periodontology", "Prosthetics", "Aesthetics", "Other"]
+  },
+  "features": {
+    "title": "Why Dentpol Söğütönü?",
+    "subtitle": "We offer an innovative, reliable and comfortable experience for your oral and dental health in Eskişehir.",
+    "items": [
+      { "title": "Digital Dentistry", "desc": "Comfortable, fast and error-free treatment planning with 3D intraoral scanners and modern devices." },
+      { "title": "Top-Level Sterilization", "desc": "A maximally safe treatment environment with sterilization protocols meeting international standards." },
+      { "title": "Same-Day Treatment", "desc": "We minimize waiting time for zirconia and prosthetic procedures with our own laboratory infrastructure." },
+      { "title": "Patient-Focused Comfort", "desc": "We thought of every detail so you can spend your treatment process in a calm and comfortable environment, free from anxiety." }
+    ]
+  },
+  "about": {
+    "badge": "Who Are We?",
+    "title": "A New Generation Approach",
+    "titleHighlight": "in Modern Dentistry",
+    "description": "As Dentpol Söğütönü Oral and Dental Health Clinic, we serve in Eskişehir to protect, treat and give you a confident smile. Led by Dr. Esra Nehir Altıçek, we secure your health with current treatment approaches and digital technologies.",
+    "learnMore": "Learn More About Us",
+    "features": [
+      "Digital Dentistry Infrastructure",
+      "Patient-Centered Personalized Treatment",
+      "Sterile and Safe Clinical Environment",
+      "Ethical and Transparent Pricing"
+    ]
+  },
+  "location": {
+    "title": "Location & Contact",
+    "subtitle": "Easily reach our clinic. We would be happy to welcome you.",
+    "contactTitle": "Get in Touch",
+    "address": "Address",
+    "addressValue": "Aşağı Söğütönü Mah. 1528. Sk. No: 4/A Tepebaşı / Eskişehir",
+    "phone": "Phone",
+    "email": "E-Mail",
+    "hours": "Working Hours",
+    "hoursValue": "Mon - Sat: 09:00 - 19:00",
+    "closed": "Sunday: Closed",
+    "directions": "Get Directions on Google Maps",
+    "howToGetThereTitle": "How to Get There?",
+    "tramInfo": "You can take trams heading towards SSK, get off at the last stop, and easily transfer to our clinic using the bus lines below.",
+    "transportOptions": [
+      "Bus: You can reach our clinic via lines 23, 54, and 58.",
+      "Minibus: Söğütönü - Center minibuses pass near our clinic.",
+      "Tram: You can use the SSK - Batıkent line and transfer with ring buses."
+    ]
+  },
+  "articles": {
+    "badge": "Latest Insights",
+    "title": "Dental Health ",
+    "titleHighlight": "Articles",
+    "viewAll": "All Articles",
+    "readMore": "Read More"
+  },
+  "footer": {
+    "description": "Confident smiles begin at Dentpol Söğütönü. A modern, ethical, and patient-focused digital dentistry approach.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "rights": "© 2026 Dentpol Söğütönü ADSP. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy"
+  },
+  "aboutPage": {
+    "hero": {
+      "badge": "About Us",
+      "title": "Here For",
+      "titleHighlight": "Healthy Smiles",
+      "subtitle": "We walk with you for years in Eskişehir with digital dentistry, an ethical approach and a patient-centered understanding."
+    },
+    "story": {
+      "badge": "Our Clinic Story",
+      "title": "How Did",
+      "titleHighlight": "Dentpol Söğütönü Begin?",
+      "p1": "Dentpol Söğütönü Oral and Dental Health Clinic was founded with the dream of creating a clinic where patients are truly valued, properly informed, and where modern technology meets human warmth.",
+      "p2": "Led by Dr. Esra Nehir Altıçek, our clinic opened its doors in Eskişehir Söğütönü in 2018 and quickly became one of the region's trusted healthcare addresses with its team specialized in implantology, aesthetic dentistry, orthodontics and digital smile design.",
+      "p3": "Today, we continue our journey with thousands of happy patients and a continuously updated technological infrastructure. We see each patient as an individual and prepare treatment plans tailored to each person."
+    },
+    "values": {
+      "badge": "Our Values",
+      "title": "The Principles",
+      "titleHighlight": "That Define Us",
+      "items": [
+        { "title": "Ethical Practice", "desc": "We build trust by always providing honest, transparent and scientifically-based information to our patients." },
+        { "title": "Digital Pioneer", "desc": "We lead the industry with 3D scanners, CAD/CAM systems and digital smile design." },
+        { "title": "Patient Comfort", "desc": "Our clinic offers a carefully designed environment to reduce anxiety and increase peace of mind." },
+        { "title": "Personalized Treatment", "desc": "Every patient has a different oral structure, expectations and lifestyle. The treatment plan is shaped accordingly." },
+        { "title": "Sterilization Priority", "desc": "All instruments are sterilized in accordance with international protocols to keep patient safety at the highest level." },
+        { "title": "Continuous Improvement", "desc": "Our team keeps itself constantly up-to-date with congresses, specialization trainings and scientific publications." }
+      ]
+    },
+    "cta": {
+      "title": "Take the First Step",
+      "titleHighlight": "for a Healthy Smile",
+      "subtitle": "Meet our expert team, ask your questions and let us create your personalized treatment plan.",
+      "primaryButton": "Book Appointment",
+      "secondaryButton": "Contact Us"
+    }
+  },
+  "treatmentsPage": {
+    "hero": {
+      "badge": "Our Treatments",
+      "title": "Comprehensive",
+      "titleHighlight": "Dental Health Services",
+      "subtitle": "From implants to aesthetic dentistry, from orthodontics to root canal — we are by your side with a wide range of expertise."
+    },
+    "detailTitle": "Treatment Detail",
+    "items": [
+      {
+        "title": "Dental Implants",
+        "category": "Surgery",
+        "shortDesc": "Permanent, natural, and aesthetic solution for missing teeth that feels closest to natural roots.",
+        "longDesc": "Dental implant therapy consists of placing biocompatible titanium posts into the jawbone to serve as artificial roots replacing lost teeth. Once the implant fuses with the bone (osseointegration), standard crowns or bridges are secured, recreating a highly durable dental foundation that restores maximum chewing comfort and identical aesthetics.",
+        "benefits": ["Saves neighboring teeth from reduction", "Closest chewing feel to a natural tooth", "Prevents progressive jawbone resorption", "Extremely durable, lifetime solution"]
+      },
+      {
+        "title": "Impacted Tooth Extraction",
+        "category": "Surgery",
+        "shortDesc": "Safe surgical extraction of non-erupting wisdom teeth and other impacted teeth.",
+        "longDesc": "Surgical tooth extraction refers to the removal of teeth that remain fully or partially beneath the jawbone or gum line. Often necessary for impacted wisdom teeth that lack space to erupt, this clinical procedure prevents severe localized pain, cysts, infections, and structural damage or crowding to adjacent dental roots.",
+        "benefits": ["Eliminates pain and swelling hazards", "Protects neighboring molar roots", "Removes active infection focus", "Avoids orthodontic dental crowding"]
+      },
+      {
+        "title": "Zygomatic Implants",
+        "category": "Surgery",
+        "shortDesc": "Innovative zygomatic implants anchored in the cheekbone for patients with severe bone loss.",
+        "longDesc": "Zygomatic implants are specialized, longer implants used for rehabilitation of patients presenting with extreme upper jawbone atrophy. Instead of anchoring into the jawbone, they are secured directly into the stable cheekbone (zygoma). This eliminates the need for traumatic, long bone grafting procedures, allowing immediate loading.",
+        "benefits": ["No sinus lift or bone grafting needed", "Fixed teeth on the same treatment day", "Solves extreme upper jawbone resorption", "Safe, highly predictable clinical protocol"]
+      },
+      {
+        "title": "Root Canal",
+        "category": "Endodontics",
+        "shortDesc": "Microscopic endodontic treatment to save infected or deeply decayed teeth painlessly.",
+        "longDesc": "Root canal therapy (endodontics) is performed to salvage a natural tooth whose pulp (inner nerve and vascular tissue) has become inflamed or infected due to deep decay, repeated dental procedures, or structural fractures. The pulp cavity is thoroughly cleaned, shaped, disinfected, and filled hermetically using specialized biocompatible sealers.",
+        "benefits": ["Saves and keeps your natural tooth", "Damps acute throbbing toothache entirely", "Stops infections from spreading to jawbone", "Eliminates need for immediate extraction"]
+      },
+      {
+        "title": "Orthodontic Treatment",
+        "category": "Orthodontics",
+        "shortDesc": "Correction of crowded teeth and jaw relationships using metal or aesthetic braces.",
+        "longDesc": "Traditional orthodontics focuses on correcting dental crowding, malocclusions, gap closures, and overall discrepancies between the upper and lower jaw relationships. Utilizing highly calibrated metal braces or aesthetic sapphire/porcelain brackets, teeth are gradually guided into their optimal biological alignment, enhancing both facial balance and chewing function.",
+        "benefits": ["Resolves mild-to-severe dental crowding", "Enhances speech and chewing ability", "Facilitates effortless brushing and flossing", "Improves overall symmetric smile aesthetics"]
+      },
+      {
+        "title": "Clear Aligners (Invisalign)",
+        "category": "Orthodontics",
+        "shortDesc": "Comfortable teeth straightening with completely invisible and removable transparent aligners.",
+        "longDesc": "Clear aligners (such as Invisalign) are state-of-the-art orthodontic systems utilizing a series of computer-designed, medical-grade transparent thermoplastic trays. Changed every few weeks, each customized tray shifts teeth incrementally. Because they are removable, they provide unmatched hygiene, comfort, and zero food restrictions.",
+        "benefits": ["Completely invisible, highly aesthetic", "Trays are removable for meals and events", "Superior oral hygiene and easy brushing", "No sharp brackets or poking wires"]
+      },
+      {
+        "title": "Pediatric Dentistry",
+        "category": "Pedodontics",
+        "shortDesc": "Preventive services, decay protection, fluoride, and deciduous tooth fillings tailored for children.",
+        "longDesc": "Pedodontics covers specialized oral care for infants, children, and adolescents. Our primary goal is to ensure a positive, play-supported, and fear-free dental experience. By applying protective fluoride gels, fissure sealants on permanent molars, and pediatric deciduous restorations, we help children transition into adulthood with optimal oral health.",
+        "benefits": ["Prevents early dental anxiety or phobias", "Strengthens children's enamel against decay", "Protects temporary baby teeth to guide daimi teeth", "Instills healthy daily brushing habits early"]
+      },
+      {
+        "title": "Gum Treatment",
+        "category": "Periodontology",
+        "shortDesc": "Professional gum therapy for gingivitis or periodontitis causing bleeding, recession, and bone loss.",
+        "longDesc": "Periodontology focuses on diagnosing and treating inflammatory diseases affecting the gums and supporting bone tissues. Ranging from basic gingivitis (swelling, bleeding gums) to advanced periodontitis (bone loss, tooth mobility), we treat conditions through deep scaling, root planing (cleaning beneath the gums), and periodontal surgery.",
+        "benefits": ["Cures bleeding gums and chronic halitosis", "Controls severe gum recession", "Prevents progressive alveolar bone loss", "Saves loose teeth from premature extraction"]
+      },
+      {
+        "title": "Air Flow Clean",
+        "category": "Periodontology",
+        "shortDesc": "Deep removal of all stains, plaque, and discolorations on teeth with air-water-powder pressure.",
+        "longDesc": "Air Flow is an advanced cosmetic cleaning system designed to remove tough surface stains caused by smoking, tea, coffee, and red wine, alongside soft plaque biofilms. A high-pressure jet blending water, compressed air, and fine sodium bicarbonate powder sweeps hard-to-reach interdental spaces without scratching enamel, leaving teeth instantly clean.",
+        "benefits": ["Quickly lifts tobacco, coffee, and tea stains", "Extremely gentle, safe for natural enamel", "Completely painless and rapid procedure", "Delivers immediate freshness and natural shine"]
+      },
+      {
+        "title": "Zirconia Veneers",
+        "category": "Prosthetics",
+        "shortDesc": "Metal-free, highly aesthetic zirconia crowns providing the closest light transmission to natural teeth.",
+        "longDesc": "Zirconia veneers and crowns are fabricated from high-grade zirconium dioxide, a biocompatible porcelain-like material offering maximum fracture resistance. Lacking the metal substructure of traditional crowns, zirconia displays excellent light transmission properties, avoiding dark shadows near gum lines and yielding highly natural smile aesthetics.",
+        "benefits": ["Completely hypoallergenic, zero metal core", "Leaves no dark shadows or gray margins on gums", "Yields highly natural, tooth-like translucent look", "Premium durability, ideal for back and front teeth"]
+      },
+      {
+        "title": "Dental Bridge",
+        "category": "Prosthetics",
+        "shortDesc": "Traditional fixed restoration to bridge the gap created by one or more missing teeth.",
+        "longDesc": "A dental bridge is a permanent prosthetic solution to replace one or more missing teeth. It anchors onto adjacent healthy teeth (which are minimally prepared and crowned to act as abutments), spanning the edentulous space with a false tooth (pontic) in between. It restores masticatory balance and stops neighboring shifts.",
+        "benefits": ["Quick and straightforward prosthetic phase", "Restores lost chewing force immediately", "Improves speech issues caused by missing teeth", "Stabilizes surrounding teeth from drifting"]
+      },
+      {
+        "title": "Implant-Supported Dentures",
+        "category": "Prosthetics",
+        "shortDesc": "Highly stable, implant-retained fixed or removable modern dentures for complete comfort.",
+        "longDesc": "Implant-supported dentures are full or partial dental arches anchored securely onto dental implants (using locator snaps, ball attachments, or custom titanium bars). Unlike traditional loose dentures, implant-supported systems remain firmly in place, resolving slippage, painful gum rubbing, and restoring complete chewing confidence.",
+        "benefits": ["Never slips, wobbles, or pops out during meals", "Restores speech clarity and normal chewing power", "Palate-free design maintains absolute taste sensations", "Feels highly secure and extremely natural"]
+      },
+      {
+        "title": "All-on-Four",
+        "category": "Prosthetics",
+        "shortDesc": "Advanced protocol providing fixed temporary teeth on the same day using only 4 implants.",
+        "longDesc": "The All-on-Four clinical concept allows the immediate rehabilitation of completely edentulous arches. By placing exactly 4 implants (two straight in the front, two tilted in the back to maximize bone contact), a full fixed provisional bridge is screwed onto the implants on the very same day. Perfect for patients presenting with moderate bone loss.",
+        "benefits": ["Walk out with fixed, loadable teeth on day one", "Highly cost-effective, using fewer implants", "Avoids extensive bone grafting operations", "High immediate comfort, fast recovery rate"]
+      },
+      {
+        "title": "All-on-Six",
+        "category": "Prosthetics",
+        "shortDesc": "Fixed hybrid bridge on 6 implants offering the highest chewing force and premium stability.",
+        "longDesc": "The All-on-Six protocol is an ideal choice for full-arch tooth replacement when bone density is excellent. Six dental implants are strategically distributed across the upper or lower jaw to support a premium custom-screwed hybrid bridge. Having more anchoring points distributes chewing pressure more evenly, offering maximum lifetime durability.",
+        "benefits": ["Premium chewing force and ultimate stability", "Excellent loading distribution for longevity", "Undistinguishable from natural healthy teeth", "100% fixed, non-removable prosthetic comfort"]
+      },
+      {
+        "title": "Overdenture",
+        "category": "Prosthetics",
+        "shortDesc": "Snap-on removable dentures with enhanced retention supported by a few teeth or implants.",
+        "longDesc": "An overdenture is a removable, highly retentive prosthetic appliance that sits over existing healthy tooth roots or a small number of dental implants (typically 2). Utilizing snap attachments, the overdenture clicks into place, providing excellent stability compared to standard suction-retained dentures while remaining easy to take out for hygiene.",
+        "benefits": ["Prevents dentures from sliding or clicking", "Reduces localized gum sores and rubbing pain", "Ideal conservative solution preserving roots", "Extremely easy to clean and maintain"]
+      },
+      {
+        "title": "Prosthetic Dentistry",
+        "category": "Prosthetics",
+        "shortDesc": "Custom-designed fixed or removable restorations to restore lost teeth and chewing function.",
+        "longDesc": "Prosthodontics covers a broad clinical scope dedicated to restoring the oral functions and facial appearance of patients who have lost teeth. From classic complete dentures to modern partial dentures utilizing hidden attachments, every prosthesis is custom-crafted to blend with existing oral tissues and restore masticatory health.",
+        "benefits": ["Prevents facial sagging, restoring youthful lines", "Corrects speech defects caused by tooth loss", "Re-establishes efficient chewing pathways", "Offers diverse prosthetic solutions for every budget"]
+      },
+      {
+        "title": "Teeth Whitening",
+        "category": "Aesthetics",
+        "shortDesc": "In-office laser or custom take-home whitening to safely brighten teeth by several shades.",
+        "longDesc": "Teeth whitening (bleaching) is a highly safe cosmetic treatment designed to clear deep organic and inorganic stains embedded in the microscopic pores of tooth enamel. Activating clinical bleaching gels using professional laser or LED lights, in-office whitening (taking under an hour) safe and quickly lightens tooth color by 3 to 4 shades.",
+        "benefits": ["Extremely fast results (under an hour in clinic)", "Highly safe chemical formulas preserving enamel", "Delivers long-lasting, bright, natural teeth shine", "Instantly boosts social confidence and aesthetics"]
+      },
+      {
+        "title": "Laminate Veneers",
+        "category": "Aesthetics",
+        "shortDesc": "Porcelain shell laminates applied to the front of teeth, requiring minimal preparation.",
+        "longDesc": "Porcelain laminate veneers are paper-thin, custom-made ceramic shells bonded onto the front surface of teeth to correct color anomalies, chips, minor rotations, or diastemas. Requiring minimal shaving (usually 0.3 to 0.7 mm of enamel, or even none in prepless veneers), laminates mimic natural light reflections, delivering a flawless Hollywood smile.",
+        "benefits": ["Highly conservative, preserving natural tooth structure", "Premium porcelain material remains stain-proof", "Provides incredibly realistic, translucent aesthetics", "Achieves a dramatic smile makeover in 7-10 days"]
+      },
+      {
+        "title": "Smile Design",
+        "category": "Aesthetics",
+        "shortDesc": "A digital design process for a flawless and natural smile tailored to your facial features.",
+        "longDesc": "Digital Smile Design utilizes professional, high-resolution portrait photography and 3D intraoral scans to meticulously plan and simulate the perfect smile before treatments begin. We analyze facial proportions, lip contours, gum lines, skin tone, and personal character to plan tailored treatments (veneers, whitening, gum contouring).",
+        "benefits": ["Preview and test the smile outcome before starting", "100% custom design matching facial aesthetics", "Achieves perfect balance between gums and teeth", "Cohesive, step-by-step aesthetic treatment plan"]
+      },
+      {
+        "title": "TMJ Treatment",
+        "category": "Other",
+        "shortDesc": "Protective splint therapies for jaw joint clicking, grinding, clenching, and joint pain.",
+        "longDesc": "Temporomandibular joint (TMJ) disorders present through clicking sounds when opening the mouth, jaw lock, limited range of motion, chronic headaches, and ear pain. Often caused by subconscious teeth grinding (bruxism), trauma, or malocclusion, we treat conditions utilizing customized hard stabilization splints, physiotherapy, and botox.",
+        "benefits": ["Resolves embarrassing jaw joint clicking sounds", "Allows comfortable, pain-free jaw movements", "Relieves referred headaches, earaches, and neck pain", "Prevents long-term severe joint capsule damage"]
+      },
+      {
+        "title": "Digital Dentistry",
+        "category": "Other",
+        "shortDesc": "Fast, precise, and comfortable digital impressions using 3D scanners and CAD/CAM units.",
+        "longDesc": "Digital dentistry replaces traditional, messy dental impressions (kaşık and hamur) with advanced 3D intraoral optical scanners and CAD/CAM fabrication units. In-office digital systems scan dentition in minutes, allowing restorations to be designed on-screen with micron-level precision and milled in automated high-speed milling machines.",
+        "benefits": ["Eliminates gag-inducing, sticky dental impression pastes", "Ultra-fast, highly comfortable 3D scanning phase", "Provides microscopic fit precision, eliminating error", "Drastically cuts down appointment counts and time"]
+      },
+      {
+        "title": "Masseter Botox",
+        "category": "Other",
+        "shortDesc": "Injections into the chewing muscle to relieve teeth grinding and clenching (bruksizm).",
+        "longDesc": "Masseter Botox involves injecting botulinum toxin directly into the masseter (primary chewing) muscle. This temporarily relaxes the muscle, lowering involuntary grinding and clenching forces during sleep. This highly popular therapeutic procedure stops crown/tooth fractures, relieves jaw pain, and yields a slimmer, softer facial contour.",
+        "benefits": ["Substantially reduces nighttime clenching and grinding", "Protects natural teeth and dental crowns from chipping", "Slims down bulky masseter muscles, contouring the face", "Painless, rapid injection completed in under 10 minutes"]
+      },
+      {
+        "title": "Night Guard",
+        "category": "Other",
+        "shortDesc": "Custom transparent guard protecting teeth and joints from involuntary sleep grinding.",
+        "longDesc": "A night guard (bruxism splint) is a custom-fitted, transparent protective appliance designed to be worn during sleep. By acting as a durable physical barrier between the upper and lower teeth, it absorbs intense clenching forces, protecting enamel from progressive attrition, preventing crown fractures, and easing stress on jaw joints.",
+        "benefits": ["Shields tooth enamel from severe wear and chipping", "Prevents failure of dental fillings and restorations", "Alleviates morning headaches and localized jaw tension", "Very comfortable, lightweight, and easy to clean"]
+      }
+    ],
+    "cta": {
+      "title": "Which Treatment is Right for You?",
+      "titleHighlight": "Let's Decide Together",
+      "subtitle": "Meet our specialist doctors with a free initial consultation, evaluate your oral health and let us create the most suitable treatment plan for you.",
+      "button": "Book Appointment"
+    }
+  },
+  "doctorsPage": {
+    "hero": {
+      "badge": "Our Doctors",
+      "title": "Meet Our",
+      "titleHighlight": "Expert Team",
+      "subtitle": "Our specialist doctors, combining years of experience with modern technology, are redesigning your smile."
+    },
+    "expertiseLabel": "Areas of Expertise",
+    "appointmentButton": "Book Appointment",
+    "doctors": [
+      {
+        "name": "Dt. Esra Nehir Altıçek",
+        "title": "Clinic Founder & General Dentist",
+        "bio": "Graduating from Hacettepe University Faculty of Dentistry in 2014, Dt. Esra Nehir Altıçek has received domestic and international training in implantology and aesthetic dentistry. As the founder of Dentpol Söğütönü, she grows the clinic with a patient-centered and digital dentistry vision.",
+        "specialties": ["Implantology", "Aesthetic Dentistry", "Digital Smile Design", "General Dentistry"]
+      },
+      {
+        "name": "Spec. Dt. Ayşe Demir",
+        "title": "Pedodontics Specialist",
+        "bio": "Spec. Dt. Ayşe Demir, who specialized in pediatric dentistry, is known for her special communication techniques and game-supported treatment methods aimed at minimizing dental fear in children. Providing the most comfortable and safe treatment environment for her young patients is her priority.",
+        "specialties": ["Pediatric Dentistry", "Fissure Sealant", "Fluoride Application", "Deciduous Tooth Treatments"]
+      },
+      {
+        "name": "Spec. Dt. Mehmet Çelik",
+        "title": "Orthodontics Specialist",
+        "bio": "Having completed his orthodontics specialization at Ege University, Spec. Dt. Mehmet Çelik holds advanced certificates in clear aligner (Invisalign) and modern fixed orthodontic treatments. He applies personalized treatment plans for patients of all ages.",
+        "specialties": ["Orthodontics", "Clear Aligners (Invisalign)", "Jaw Alignment", "Retention Treatments"]
+      }
+    ],
+    "cta": {
+      "title": "To Make an Appointment",
+      "titleHighlight": "Call Us",
+      "subtitle": "You can make an appointment right away to meet with one of our specialist doctors.",
+      "button": "Book Appointment"
+    }
+  },
+  "gallery": {
+    "badge": "Our Clinic",
+    "title": "Modern & Comfortable",
+    "titleHighlight": "Treatment Environment",
+    "subtitle": "Discover our clinic that combines hygiene, technology and aesthetics."
+  },
+  "appointment": {
+    "badge": "Online Appointment",
+    "title": "Request an",
+    "titleHighlight": "Appointment",
+    "subtitle": "Fill out the form and we'll call you back as soon as possible.",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "phone": "Phone",
+    "phonePlaceholder": "+90 5XX XXX XX XX",
+    "service": "Treatment Subject",
+    "servicePlaceholder": "What would you like to inquire about?",
+    "date": "Preferred Date",
+    "note": "Your Note",
+    "notePlaceholder": "Any additional information...",
+    "submit": "Request Appointment",
+    "success": "Your request has been received! We'll call you as soon as possible.",
+    "services": ["Dental Implants", "Impacted Tooth Extraction", "Zygomatic Implants", "Root Canal", "Orthodontic Treatment", "Clear Aligners (Invisalign)", "Pediatric Dentistry", "Gum Treatment", "Air Flow Clean", "Zirconia Veneers", "Dental Bridge", "Implant-Supported Dentures", "All-on-Four", "All-on-Six", "Overdenture", "Prosthetic Dentistry", "Teeth Whitening", "Laminate Veneers", "Smile Design", "TMJ Treatment", "Digital Dentistry", "Masseter Botox", "Night Guard", "Other"]
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "Contact",
+      "title": "Get in",
+      "titleHighlight": "Touch",
+      "subtitle": "Book an appointment or get information using the contact details below, or fill in the form."
+    },
+    "infoTitle": "Contact Information",
+    "howToTitle": "How to Get Here?",
+    "appointmentTitle": "Book an",
+    "appointmentHighlight": "Appointment",
+    "appointmentSubtitle": "Fill in the form and our expert team will call you back as soon as possible.",
+    "phoneValue": "0222 502 00 26",
+    "emailValue": "bilgi@dentpol.com.tr",
+    "mapLink": "View on Google Maps",
+    "whatsapp": "Message on WhatsApp"
+  }
+}

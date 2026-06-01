@@ -1,0 +1,57 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Article {
+  id        String   @id @default(cuid())
+  title     String
+  slug      String   @unique
+  excerpt   String
+  content   String
+  imageUrl  String
+  category  String
+  date      String
+  author    String?
+  tags      String?  // comma separated
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Treatment {
+  id        String   @id @default(cuid())
+  title     String
+  slug      String   @unique
+  category  String
+  shortDesc String
+  longDesc  String
+  benefits  String   // comma separated or JSON string
+  imageUrl  String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model Doctor {
+  id          String   @id @default(cuid())
+  name        String
+  title       String
+  bio         String
+  imageUrl    String?
+  specialties String   // comma separated
+  order       Int      @default(0)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model GalleryImage {
+  id        String   @id @default(cuid())
+  title     String?
+  imageUrl  String
+  order     Int      @default(0)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}

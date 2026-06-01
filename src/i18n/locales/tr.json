@@ -1,0 +1,401 @@
+{
+  "nav": {
+    "about": "Hakkımızda",
+    "services": "Tedaviler",
+    "doctors": "Hekimlerimiz",
+    "articles": "Makaleler",
+    "contact": "İletişim",
+    "language": "Dil"
+  },
+  "hero": {
+    "title": "Gülüşünüz",
+    "titleHighlight": "Özgüveninizdir",
+    "subtitle": "Dentpol Söğütönü'nde modern, etik ve hasta odaklı dijital diş hekimliği yaklaşımıyla hayalinizdeki sağlıklı gülüşe kavuşun.",
+    "primaryButton": "Randevu Al",
+    "secondaryButton": "Hizmetlerimiz"
+  },
+  "services": {
+    "badge": "Uzmanlık Alanlarımız",
+    "title": "Tedavi ",
+    "titleHighlight": "Hizmetlerimiz",
+    "subtitle": "Estetikten cerrahiye, ortodontiden implanta geniş hizmet yelpazemizle yanınızdayız.",
+    "filterAll": "Tümü",
+    "learnMore": "Detaylı Bilgi",
+    "items": [
+      { "title": "İmplant", "category": "Cerrahi", "desc": "Eksik dişlerin tamamlanmasında doğal dişe en yakın çiğneme hissini veren kalıcı çözüm." },
+      { "title": "Gömülü Diş Çekimi", "category": "Cerrahi", "desc": "Çenede süremeyen yirmi yaş dişleri ve diğer gömülü dişlerin cerrahi operasyonla alınması." },
+      { "title": "Zigomatik İmplant", "category": "Cerrahi", "desc": "İleri kemik erimesi olan hastalarda elmacık kemiğinden destek alan yenilikçi implant yöntemi." },
+      { "title": "Kanal Tedavisi", "category": "Endodonti", "desc": "Enfekte olmuş diş sinirlerinin temizlenerek doğal dişin ağrısız şekilde ağızda tutulması." },
+      { "title": "Ortodontik Tedavi", "category": "Ortodonti", "desc": "Metal veya porselen braketlerle diş çapraşıklıklarının ve çene uyumsuzluklarının düzeltilmesi." },
+      { "title": "Şeffaf Plak (Invisalign)", "category": "Ortodonti", "desc": "Telsiz, tamamen görünmez ve çıkarılabilir plaklarla konforlu diş düzeltme tedavisi." },
+      { "title": "Çocuk Diş Tedavisi", "category": "Pedodonti", "desc": "Çocukluk dönemi ağız sağlığını koruyucu flor, fissür örtücü ve pedodonti dolgu uygulamaları." },
+      { "title": "Diş Eti Tedavisi", "category": "Periodontoloji", "desc": "Diş eti kanaması, çekilmesi ve kemik kaybına yol açan periodontitis hastalıklarının tedavisi." },
+      { "title": "Air Flow Uygulaması", "category": "Periodontoloji", "desc": "Hava, basınçlı su ve özel tozlar yardımıyla diş yüzeyindeki leke ve plakların derinlemesine temizliği." },
+      { "title": "Zirkonyum Kaplama", "category": "Protetik", "desc": "Doğal dişe en yakın ışık geçirgenliği sunan metal desteksiz son derece estetik kaplamalar." },
+      { "title": "Diş Köprüsü", "category": "Protetik", "desc": "Eksik dişlerin yanındaki sağlam komşu dişlerden destek alınarak hazırlanan geleneksel sabit köprü." },
+      { "title": "İmplant Üstü Protezler", "category": "Protetik", "desc": "İmplantlar üzerine uygulanan, yüksek tutuculuğa sahip sabit veya hareketli modern protezler." },
+      { "title": "All-on-Four", "category": "Protetik", "desc": "Tam dişsiz çenelerde sadece 4 implant üzerine aynı gün sabit geçici diş yapılması tekniği." },
+      { "title": "All-on-Six", "category": "Protetik", "desc": "Tam dişsiz hastalarda 6 implant desteğiyle en yüksek çiğneme kuvveti ve stabilite sunan sabit protez." },
+      { "title": "Overdenture", "category": "Protetik", "desc": "Kalan zayıf dişler veya implantlar üzerine çıtçıt sistemiyle sabitlenen hareketli hassas protezler." },
+      { "title": "Protez Diş Tedavisi", "category": "Protetik", "desc": "Kaybedilen diş dokularının yerine konması için kişiye özel hazırlanan sabit veya hareketli protezler." },
+      { "title": "Diş Beyazlatma", "category": "Estetik", "desc": "Klinik ortamında uygulanan lazer veya ev tipi özel plaklarla diş renginin birkaç ton açılması." },
+      { "title": "Lamina", "category": "Estetik", "desc": "Dişin sadece ön yüzeyine uygulanan ve minimum aşındırma gerektiren porselen yaprak lamine estetiği." },
+      { "title": "Gülüş Tasarımı", "category": "Estetik", "desc": "Kişinin yüz hatlarına, dudak yapısına ve karakterine özel en ideal doğal gülüşün tasarlanması." },
+      { "title": "Çene Eklemi", "category": "Diğer", "desc": "Çene eklemi tıkırtısı, ağrısı ve fonksiyon kayıplarını gidermeye yönelik koruyucu tedaviler." },
+      { "title": "Dijital Diş Hekimliği", "category": "Diğer", "desc": "3D ağız içi tarayıcılar ve CAD/CAM sistemleri ile hızlı, konforlu ve hatasız dijital ölçü alma." },
+      { "title": "Masseter Botoks", "category": "Diğer", "desc": "Diş sıkma ve gıcırdatmanın (bruksizm) engellenmesi için çiğneme kasına uygulanan tedavi." },
+      { "title": "Gece Plağı", "category": "Diğer", "desc": "Uyku esnasında diş sıkma ve gıcırdatmanın dişe ve ekleme vereceği zararı önleyen koruyucu plak." }
+    ],
+    "categories": ["Tümü", "Cerrahi", "Endodonti", "Ortodonti", "Pedodonti", "Periodontoloji", "Protetik", "Estetik", "Diğer"]
+  },
+  "features": {
+    "title": "Neden Dentpol Söğütönü?",
+    "subtitle": "Eskişehir'de ağız ve diş sağlığınız için yenilikçi, güvenilir ve konforlu bir deneyim sunuyoruz.",
+    "items": [
+      { "title": "Dijital Diş Hekimliği", "desc": "3D ağız içi tarayıcılar ve modern cihazlarla konforlu, hızlı ve hatasız tedavi planlaması." },
+      { "title": "Üst Düzey Sterilizasyon", "desc": "Uluslararası standartlarda sterilizasyon protokolleriyle maksimum güvenlikli tedavi ortamı." },
+      { "title": "Aynı Gün Tedavi", "desc": "Kendi laboratuvar altyapımızla zirkonyum ve protetik işlemlerinizde bekleme süresini minimuma indiriyoruz." },
+      { "title": "Hasta Odaklı Konfor", "desc": "Tedavi sürecinizi kaygıdan uzak, sakin ve ferah bir ortamda geçirmeniz için her detayı düşündük." }
+    ]
+  },
+  "about": {
+    "badge": "Biz Kimiz?",
+    "title": "Modern Diş Hekimliğinde",
+    "titleHighlight": "Yeni Nesil Yaklaşım",
+    "description": "Dentpol Söğütönü Ağız ve Diş Sağlığı Polikliniği olarak, ağız ve diş sağlığınızı korumak, tedavi etmek ve size özgüvenli bir gülüş kazandırmak için Eskişehir'de hizmet veriyoruz. Dt. Esra Nehir Altıçek öncülüğünde, güncel tedavi yaklaşımları ve dijital teknolojilerle sağlığınızı güvence altına alıyoruz.",
+    "learnMore": "Hakkımızda Daha Fazla",
+    "features": [
+      "Dijital Diş Hekimliği Altyapısı",
+      "Hasta Odaklı Kişiselleştirilmiş Tedavi",
+      "Steril ve Güvenli Klinik Ortamı",
+      "Etik ve Şeffaf Fiyatlandırma"
+    ]
+  },
+  "location": {
+    "title": "Ulaşım & İletişim",
+    "subtitle": "Kliniğimize kolayca ulaşın. Sizi ağırlamaktan mutluluk duyarız.",
+    "contactTitle": "Bize Ulaşın",
+    "address": "Adres",
+    "addressValue": "Aşağı Söğütönü Mah. 1528. Sk. No: 4/A Tepebaşı / Eskişehir",
+    "phone": "Telefon",
+    "email": "E-Posta",
+    "hours": "Çalışma Saatleri",
+    "hoursValue": "Pzt - Cmt: 09:00 - 19:00",
+    "closed": "Pazar: Kapalı",
+    "directions": "Google Haritalar'da Yol Tarifi Al",
+    "howToGetThereTitle": "Nasıl Ulaşırım?",
+    "tramInfo": "SSK yönüne giden tramvayları kullanarak son durakta inebilir ve aşağıdaki otobüs hatlarıyla kliniğimize kolayca aktarma yapabilirsiniz.",
+    "transportOptions": [
+      "Otobüs: 23, 54 ve 58 numaralı hatlar ile kliniğimize ulaşabilirsiniz.",
+      "Minibüs: Söğütönü - Merkez minibüsleri kliniğimizin yakınından geçmektedir.",
+      "Tramvay: SSK - Batıkent hattını kullanarak ring otobüsleriyle aktarma yapabilirsiniz."
+    ]
+  },
+  "articles": {
+    "badge": "Güncel Bilgiler",
+    "title": "Ağız ve Diş Sağlığı ",
+    "titleHighlight": "Makaleleri",
+    "viewAll": "Tüm Makaleler",
+    "readMore": "Devamını Oku"
+  },
+  "footer": {
+    "description": "Özgüvenli gülüşler Dentpol Söğütönü'nde başlar. Modern, etik ve hasta odaklı dijital diş hekimliği yaklaşımı.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "services": "Hizmetlerimiz",
+    "contact": "İletişim",
+    "rights": "© 2026 Dentpol Söğütönü ADSP. Tüm hakları saklıdır.",
+    "privacy": "KVKK Aydınlatma Metni",
+    "cookies": "Çerez Politikası"
+  },
+  "aboutPage": {
+    "hero": {
+      "badge": "Hakkımızda",
+      "title": "Sağlıklı Gülüşler İçin",
+      "titleHighlight": "Buradayız",
+      "subtitle": "Eskişehir'de dijital diş hekimliği, etik yaklaşım ve hasta odaklı anlayışla sizinle yıllar boyu yürüyoruz."
+    },
+    "story": {
+      "badge": "Klinik Hikayemiz",
+      "title": "Dentpol Söğütönü",
+      "titleHighlight": "Nasıl Doğdu?",
+      "p1": "Dentpol Söğütönü Ağız ve Diş Sağlığı Polikliniği, hastaların gerçek anlamda değer gördüğü, doğru bilgilendirildiği ve modern teknolojinin insan sıcaklığıyla buluştuğu bir klinik yaratma hayaliyle kuruldu.",
+      "p2": "Dt. Esra Nehir Altıçek öncülüğünde, 2018 yılında Eskişehir Söğütönü'nde kapılarını açan kliniğimiz; implantoloji, estetik diş hekimliği, ortodonti ve dijital gülüş tasarımı alanlarında uzmanlaşmış ekibiyle kısa sürede bölgenin güvenilir sağlık adreslerinden biri haline geldi.",
+      "p3": "Bugün, binlerce mutlu hastamız ve sürekli güncellenen teknolojik altyapımızla yolculuğumuza devam ediyoruz. Her hastamızı birey olarak görüyor, tedavi planlarını kişiye özel hazırlıyoruz."
+    },
+    "values": {
+      "badge": "Değerlerimiz",
+      "title": "Bizi Biz Yapan",
+      "titleHighlight": "İlkeler",
+      "items": [
+        { "title": "Etik Hekimlik", "desc": "Hastalarımıza her zaman dürüst, şeffaf ve bilimsel temelli bilgi sunarak güven inşa ediyoruz." },
+        { "title": "Dijital Öncülük", "desc": "3D tarayıcılar, CAD/CAM sistemleri ve dijital gülüş tasarımıyla sektörün önünde yürüyoruz." },
+        { "title": "Hasta Konforu", "desc": "Kliniğimiz; kaygıyı azaltmak, huzuru artırmak amacıyla özenle tasarlanmış bir ortam sunar." },
+        { "title": "Kişiselleştirilmiş Tedavi", "desc": "Her hastanın ağız yapısı, beklentisi ve yaşam tarzı farklıdır. Tedavi planı da ona göre şekillenir." },
+        { "title": "Sterilizasyon Önceliği", "desc": "Tüm aletler uluslararası protokollere uygun sterilize edilerek hasta güvenliği en üst düzeyde tutulur." },
+        { "title": "Sürekli Gelişim", "desc": "Ekibimiz; kongreler, uzmanlık eğitimleri ve bilimsel yayınlarla kendini sürekli güncel tutar." }
+      ]
+    },
+    "cta": {
+      "title": "Sağlıklı Bir Gülüş İçin",
+      "titleHighlight": "İlk Adımı Atın",
+      "subtitle": "Uzman ekibimizle tanışın, sorularınızı sorun ve size özel tedavi planınızı oluşturalım.",
+      "primaryButton": "Randevu Al",
+      "secondaryButton": "Bize Ulaşın"
+    }
+  },
+  "treatmentsPage": {
+    "hero": {
+      "badge": "Tedavilerimiz",
+      "title": "Kapsamlı",
+      "titleHighlight": "Diş Sağlığı Hizmetleri",
+      "subtitle": "İmplanttan estetik diş hekimliğine, ortodontiden kanal tedavisine geniş uzmanlık yelpazemizle yanınızdayız."
+    },
+    "detailTitle": "Tedavi Detayı",
+    "items": [
+      {
+        "title": "İmplant",
+        "category": "Cerrahi",
+        "shortDesc": "Eksik dişlerin tamamlanmasında doğal dişe en yakın çiğneme hissini veren kalıcı çözüm.",
+        "longDesc": "Dental implant tedavisi, kaybedilen dişlerin yerine onların fonksiyon ve estetiğini tekrar kazandırmak amacıyla çene kemiğine yerleştirilen yapay diş kökleridir. Titanyumdan imal edilen implantlar vücut dostudur ve kemikle tamamen kaynaşarak (osteointegrasyon) son derece sağlam bir temel oluşturur. Çiğneme konforunu doğal diş hissiyle geri kazandırır.",
+        "benefits": ["Komşu dişler zarar görmez", "Doğal dişe en yakın çiğneme hissi", "Çene kemiği erimesini engeller", "Ömür boyu kalıcılık ve dayanıklılık"]
+      },
+      {
+        "title": "Gömülü Diş Çekimi",
+        "category": "Cerrahi",
+        "shortDesc": "Çenede süremeyen yirmi yaş dişleri ve diğer gömülü dişlerin cerrahi operasyonla alınması.",
+        "longDesc": "Gömülü diş operasyonları, çene kemiğinin altında kalan veya diş etini aşamayarak sürmesini tamamlayamamış dişlerin cerrahi yöntemlerle çekilmesidir. Özellikle 20 yaş dişlerinin (akıl dişleri) çenede yer bulamaması sonucu ağrı, enfeksiyon ve komşu dişlerin köklerinde erime yapmaması için lokal anestezi altında steril şartlarda alınması önerilir.",
+        "benefits": ["Ağrı ve şişlik riskini giderir", "Komşu dişlerin zarar görmesini önler", "Enfeksiyon odaklarını temizler", "Çapraşıklık oluşmasını engeller"]
+      },
+      {
+        "title": "Zigomatik İmplant",
+        "category": "Cerrahi",
+        "shortDesc": "İleri kemik erimesi olan hastalarda elmacık kemiğinden destek alan yenilikçi implant yöntemi.",
+        "longDesc": "Zigomatik implantlar, üst çenesinde ileri derecede kemik erimesi (atrofi) olan ve standart implant tedavisi uygulanamayan durumlarda elmacık (zigoma) kemiğine yerleştirilen özel uzun implantlardır. Bu yöntem sayesinde hastalarımıza zorlu ve uzun süren kemik grefti (kemik tozu) operasyonlarına gerek kalmadan, aynı gün sabit protezler yapılabilmektedir.",
+        "benefits": ["Sinüs grefti operasyonu gerektirmez", "Aynı gün sabit diş yapma imkanı", "İleri derecede kemik erimesinde çözüm", "Güvenilir ve konforlu tedavi süreci"]
+      },
+      {
+        "title": "Kanal Tedavisi",
+        "category": "Endodonti",
+        "shortDesc": "Enfekte olmuş diş sinirlerinin temizlenerek doğal dişin ağrısız şekilde ağızda tutulması.",
+        "longDesc": "Kanal tedavisi (endodontik tedavi), derin çürükler veya travmalar sebebiyle dişin canlı kısmının (pulpa / sinir paketi) enfekte olması durumunda uygulanır. Bu sinir ve damarlar tamamen temizlenir, kanallar genişletilerek dezenfekte edilir ve özel dolgu maddeleriyle sızdırmaz şekilde doldurulur. Böylece kendi doğal dişinizin çekilmeden ağızda kalması sağlanır.",
+        "benefits": ["Doğal dişi ağızda korur", "Şiddetli diş ağrısını tamamen dindirir", "Enfeksiyonun çene kemiğine yayılmasını önler", "Çekim ihtiyacını ortadan kaldırır"]
+      },
+      {
+        "title": "Ortodontik Tedavi",
+        "category": "Ortodonti",
+        "shortDesc": "Metal veya porselen braketlerle diş çapraşıklıklarının ve çene uyumsuzluklarının düzeltilmesi.",
+        "longDesc": "Ortodontik tedaviler, dişlerin çene kemiği üzerinde yanlış konumlanması, çapraşıklıklar veya alt-üst çenenin birbirleriyle olan uyumsuzluklarını düzeltmek amacıyla uygulanır. Geleneksel metal braketler, diş rengindeki estetik porselen veya safir braketler kullanılarak dişler yavaşça ideal konumlarına hareket ettirilir. Hem estetik hem fonksiyonel iyileşme sağlar.",
+        "benefits": ["Çapraşıklıkları mükemmel giderir", "Düzgün çiğneme ve konuşma fonksiyonu", "Dişlerin temizlenmesini kolaylaştırır", "Kusursuz ve simetrik gülüş estetiği"]
+      },
+      {
+        "title": "Şeffaf Plak (Invisalign)",
+        "category": "Ortodonti",
+        "shortDesc": "Telsiz, tamamen görünmez ve çıkarılabilir plaklarla konforlu diş düzeltme tedavisi.",
+        "longDesc": "Invisalign ve yeni nesil şeffaf plak sistemleri, dişleri metal teller kullanmadan düzeltmek için özel olarak üretilen şeffaf apareylerdir. Dijital ortamda tasarlanan plaklar, dişleri milimetrik olarak ideal konumuna taşır. Tamamen şeffaf olmaları sayesinde dışarıdan fark edilmezler, yemek yerken veya fırçalarken çıkarılabilirler.",
+        "benefits": ["Dışarıdan tamamen görünmezdir", "Yemek yerken çıkarılabilen konfor", "Diş temizliği ve bakımı çok kolaydır", "Braket batan, acı veren teller yoktur"]
+      },
+      {
+        "title": "Çocuk Diş Tedavisi",
+        "category": "Pedodonti",
+        "shortDesc": "Çocukluk dönemi ağız sağlığını koruyucu flor, fissür örtücü ve pedodonti dolgu uygulamaları.",
+        "longDesc": "Pedodonti tedavileri, 0-14 yaş arasındaki çocukların süt ve daimi dişlerinin gelişimini takip eden ve koruyan hekimlik dalıdır. Amacımız çocukların diş hekimi fobisi kazanmadan, oyunla ve özel tekniklerle tedavilerini tamamlamaktır. Fissür örtücüler, flor jel uygulamaları ve süt dişi dolguları ile çocukların ömür boyu sağlıklı kalması amaçlanır.",
+        "benefits": ["Diş hekimi fobisi oluşumunu engeller", "Çürüğe karşı diş minesini güçlendirir", "Süt dişlerinin vaktinden önce kaybını önler", "Doğru ağız hijyeni alışkanlığı kazandırır"]
+      },
+      {
+        "title": "Diş Eti Tedavisi",
+        "category": "Periodontoloji",
+        "shortDesc": "Diş eti kanaması, çekilmesi ve kemik kaybına yol açan periodontitis hastalıklarının tedavisi.",
+        "longDesc": "Periodontoloji tedavileri; dişleri çevreleyen diş eti ve destek kemik dokularının sağlığını korumayı hedefler. Diş eti kanaması, ağız kokusu, diş etlerinde şişme ve diş eti çekilmesiyle kendini gösteren hastalıklar, başlangıç seviyesinde taş temizliği ile, ileri seviyelerde ise küretaj ve flap operasyonları gibi cerrahi temizliklerle kontrol altına alınır.",
+        "benefits": ["Diş eti kanaması ve kokusunu bitirir", "Diş eti çekilmelerini kontrol eder", "Destek çene kemiği kaybını önler", "Sallanan dişlerin kaybını engeller"]
+      },
+      {
+        "title": "Air Flow Uygulaması",
+        "category": "Periodontoloji",
+        "shortDesc": "Hava, basınçlı su ve özel tozlar yardımıyla diş yüzeyindeki leke ve plakların derinlemesine temizliği.",
+        "longDesc": "Air Flow uygulaması, diş yüzeylerinde sigara, çay, kahve veya renkli gıdaların oluşturduğu inatçı dış lekeleri ve yumuşak plakları temizleyen modern bir sistemdir. Basınçlı su, hava ve sodyum bikarbonat bazlı özel ince tozların birleşimiyle diş aralarına ve girintilerine zarar vermeden ulaşarak dişlerin doğal parlaklığını geri kazandırır.",
+        "benefits": ["İnatçı sigara, çay lekelerini söker", "Dişlere ve mineye asla zarar vermez", "Ağrısız, son derece hızlı uygulama", "Anında doğal beyazlık ve temizlik"]
+      },
+      {
+        "title": "Zirkonyum Kaplama",
+        "category": "Protetik",
+        "shortDesc": "Doğal dişe en yakın ışık geçirgenliği sunan metal desteksiz son derece estetik kaplamalar.",
+        "longDesc": "Zirkonyum kaplama, metal destekli porselenlerin estetik olarak zayıf yönlerini gidermek amacıyla kullanılan, beyaz renkli zirkonyum dioksit alaşımından üretilen restorasyonlardır. Doğal dişler gibi ışık geçirgenliğine sahip olmaları sayesinde son derece doğal görünürler. Diş eti kenarlarında morarma yapmazlar ve doku uyumludurlar.",
+        "benefits": ["Metal alerjisi riskini sıfırlar", "Diş etinde mor gölge oluşturmaz", "Doğal dişe en yakın ışık geçirgenliği", "Yüksek dayanıklılık ve çiğneme gücü"]
+      },
+      {
+        "title": "Diş Köprüsü",
+        "category": "Protetik",
+        "shortDesc": "Eksik dişlerin yanındaki sağlam komşu dişlerden destek alınarak hazırlanan geleneksel sabit köprü.",
+        "longDesc": "Diş köprüsü, bir veya birden fazla diş kaybı durumunda, eksik olan bölgenin her iki yanındaki sağlam dişlerin küçültülerek onlardan destek alınmasıyla yapılan sabit protetik uygulamadır. Çiğneme fonksiyonunu yeniden tesis eder, diğer dişlerin boşluğa doğru kaymasını engeller ve ağız içi estetik bütünlüğü korur.",
+        "benefits": ["Hızlı ve pratik tedavi süresi", "Çiğneme fonksiyonunu anında çözer", "Konuşma bozukluklarını düzeltir", "Dişlerin boşluğa kaymasını önler"]
+      },
+      {
+        "title": "İmplant Üstü Protezler",
+        "category": "Protetik",
+        "shortDesc": "İmplantlar üzerine uygulanan, yüksek tutuculuğa sahip sabit veya hareketli modern protezler.",
+        "longDesc": "İmplant üstü protezler, eksik dişlerin yerine yerleştirilen implantlardan destek alınarak tasarlanan protezlerdir. Tek bir diş kaplamasından, tüm ağız dişsizliğinde uygulanan köprülere veya hareketli damakların implantlara tutunmasını sağlayan çıtçıtlı (locator/ball) sistemlere kadar geniş bir yelpazeyi kapsar. Maksimum konfor sunar.",
+        "benefits": ["Yemek yerken asla yerinden oynamaz", "Maksimum konuşma ve çiğneme gücü", "Damak kısmını kapatmadığı için tat kaybı yapmaz", "Son derece doğal ve estetik görünüm"]
+      },
+      {
+        "title": "All-on-Four",
+        "category": "Protetik",
+        "shortDesc": "Tam dişsiz çenelerde sadece 4 implant üzerine aynı gün sabit geçici diş yapılması tekniği.",
+        "longDesc": "All-on-Four tekniği, tam dişsiz veya tüm dişleri çekilecek olan hastalarda, çenenin ön bölgesine düz, arka bölgesine ise açılı olarak yerleştirilen toplam 4 adet implant üzerine, aynı gün sabit geçici protezin vidalanması işlemidir. Bu sayede hastamız klinikten dişli olarak ayrılır ve kemik erimesi olan bölgelerde dahi tedavi tamamlanabilir.",
+        "benefits": ["Aynı gün sabit dişlerle kliniği terk etme", "Daha az implant ile ekonomik çözüm", "İleri cerrahi işlem ihtiyacını azaltır", "Hızlı iyileşme ve yüksek yaşam konforu"]
+      },
+      {
+        "title": "All-on-Six",
+        "category": "Protetik",
+        "shortDesc": "Tam dişsiz hastalarda 6 implant desteğiyle en yüksek çiğneme kuvveti ve stabilite sunan sabit protez.",
+        "longDesc": "All-on-Six tekniği, çene kemiği hacmi ve kalitesi uygun olan tam dişsiz hastalarda, üst veya alt çeneye yerleştirilen 6 adet implant üzerine sabit hibrit veya tam porselen protezlerin vidalanması işlemidir. All-on-Four'a kıyasla daha fazla implant kullanıldığı için çiğneme kuvvetlerini daha homojen dağıtır ve maksimum dayanıklılık sağlar.",
+        "benefits": ["En üst düzey çiğneme gücü ve stabilite", "Homojen yük dağılımı ile uzun ömür", "Doğal dişten ayırt edilemeyen estetik", "Tamamen sabit, oynamayan protez konforu"]
+      },
+      {
+        "title": "Overdenture",
+        "category": "Protetik",
+        "shortDesc": "Kalan zayıf dişler veya implantlar üzerine çıtçıt sistemiyle sabitlenen hareketli hassas protezler.",
+        "longDesc": "Overdenture protezler, çenede kalan birkaç doğal diş kökünden veya yerleştirilen az sayıda implanttan (genellikle 2-4 adet) destek alarak tutuculuğu çıtçıt (hassas tutucu) veya barlar vasıtasıyla artırılmış hareketli protezlerdir. Klasik damak protezlerinin ağızdan çıkması ve oynaması sorununu tamamen ortadan kaldırır.",
+        "benefits": ["Protezin ağızdan fırlamasını önler", "Damak hassasiyetini ve vurmasını azaltır", "Daha az kemik erimesi olanlarda idealdir", "Temizliği son derece kolay ve pratiktir"]
+      },
+      {
+        "title": "Protez Diş Tedavisi",
+        "category": "Protetik",
+        "shortDesc": "Kaybedilen diş dokularının yerine konması için kişiye özel hazırlanan sabit veya hareketli protezler.",
+        "longDesc": "Protez diş tedavisi, çeşitli nedenlerle kaybedilen dişlerin ve çevre dokuların estetik ve fonksiyonel olarak yerine konulması amacıyla yapılan tüm yapay restorasyonları kapsar. Klasik total (damak) protezler, parsiyel (kancalı) protezler veya modern hassas tutuculu estetik protezler bu kapsamda hastaya özel tasarlanır.",
+        "benefits": ["Yüz çökmelerini önler, genç gösterir", "Eksik dişlerin yarattığı konuşma bozukluğunu giderir", "Çiğneme yeteneğini yeniden kazandırır", "Her bütçeye uygun protez alternatifleri"]
+      },
+      {
+        "title": "Diş Beyazlatma",
+        "category": "Estetik",
+        "shortDesc": "Klinik ortamında uygulanan lazer veya ev tipi özel plaklarla diş renginin birkaç ton açılması.",
+        "longDesc": "Diş beyazlatma (bleaching), dişlerin gözenekli mine yapısında biriken renkli organik ve inorganik maddelerin, özel beyazlatma jelleri ve aktivatör ışık (lazer/LED) kaynakları yardımıyla çözülerek diş renginin 3 ila 4 ton açılması işlemidir. Klinik tipi (office bleaching) ile yaklaşık 1 saatte çok hızlı ve güvenli sonuçlar alınır.",
+        "benefits": ["Çok hızlı (1 saatte) beyaz gülüş", "Zararsız ve güvenli kimyasal formül", "Kalıcı ve canlı doğal diş parlaklığı", "Özgüven tazeleyen estetik değişim"]
+      },
+      {
+        "title": "Lamina",
+        "category": "Estetik",
+        "shortDesc": "Dişin sadece ön yüzeyine uygulanan ve minimum aşındırma gerektiren porselen yaprak lamine estetiği.",
+        "longDesc": "Porselen lamine (yaprak porselen veya lamine veneer), dişlerin sadece ön yüzeylerinden 0.3 - 0.7 mm gibi son derece minimal bir aşındırma yapılarak (bazı durumlarda hiç aşındırmadan) hazırlanan çok ince porselen yaprakçıkların yapıştırılması işlemidir. Dişlerin rengini, formunu ve dizilimini kusursuz şekilde düzelterek Hollywood Smile sunar.",
+        "benefits": ["Minimum diş aşındırması ile maksimum koruma", "Renk değiştirmeyen üstün porselen kalitesi", "Doğal dişten ayırt edilemeyen estetik", "Çok kısa sürede (7-10 gün) yepyeni bir gülüş"]
+      },
+      {
+        "title": "Gülüş Tasarımı",
+        "category": "Estetik",
+        "shortDesc": "Kişinin yüz hatlarına, dudak yapısına ve karakterine özel en ideal doğal gülüşün tasarlanması.",
+        "longDesc": "Dijital gülüş tasarımı, hastadan alınan yüksek çözünürlüklü fotoğraflar ve 3D ağız içi taramalar yardımıyla, hastanın yüz oranları, dudak yapısı, diş eti seviyesi, ten rengi ve cinsiyeti analiz edilerek en ideal gülüşün bilgisayar destekli planlanmasıdır. Tedavi başlamadan önce mockup uygulamasıyla sonucu canlı görebilirsiniz.",
+        "benefits": ["Tedavi sonucunu önceden görme şansı", "Yüz oranlarıyla %100 uyumlu tasarım", "Diş eti ve diş estetiğinin mükemmel dengesi", "Kişiselleştirilmiş estetik tedavi planı"]
+      },
+      {
+        "title": "Çene Eklemi",
+        "category": "Diğer",
+        "shortDesc": "Çene eklemi tıkırtısı, ağrısı ve fonksiyon kayıplarını gidermeye yönelik koruyucu tedaviler.",
+        "longDesc": "Temporomandibular eklem (çene eklemi) rahatsızlıkları; eklemde kütürdeme/tıkırtı sesi, çene kilitlenmesi, ağız açmada kısıtlılık, baş ve kulak ağrısı ile kendini gösterir. Diş sıkma, strese bağlı kas spazmsarı veya travmalar sonucu oluşan bu problemler, kişiye özel eklem splintleri, kas gevşetici plaklar ve fizik tedavi seansları ile tedavi edilir.",
+        "benefits": ["Çene eklemi tıkırtı seslerini sonlandırır", "Ağzın rahat ve ağrısız açılmasını sağlar", "Kulak, baş ve çene ağrılarını giderir", "Eklem deformasyonunun önüne geçer"]
+      },
+      {
+        "title": "Dijital Diş Hekimliği",
+        "category": "Diğer",
+        "shortDesc": "3D ağız içi tarayıcılar ve CAD/CAM sistemleri ile hızlı, konforlu ve hatasız dijital ölçü alma.",
+        "longDesc": "Dijital diş hekimliği, geleneksel ağız içi ölçü kaşıklarının ve hamurlarının yerini alan 3D ağız içi optik kameraların ve CAD/CAM laboratuvar cihazlarının kullanılması sürecidir. Bilgisayar ortamında mikron düzeyinde hassasiyetle tasarlanan kaplamalar, 3D kazıma ünitelerinde el değmeden üretilir. Hata payını sıfıra indirir.",
+        "benefits": ["Bulantı refleksi yaratan ölçü hamurlarına son", "Dakikalar içinde hızlı ve konforlu 3D tarama", "Mikron düzeyinde kusursuz uyum ve hassasiyet", "Tedavi seans sürelerini yarı yarıya düşürür"]
+      },
+      {
+        "title": "Masseter Botoks",
+        "category": "Diğer",
+        "shortDesc": "Diş sıkma ve gıcırdatmanın (bruksizm) engellenmesi için çiğneme kasına uygulanan tedavi.",
+        "longDesc": "Masseter botoksu, çenenin yan taraflarında bulunan masseter (çiğneme) kasına botulinum toksini enjekte edilerek kasın aşırı kasılma kuvvetinin zayıflatılması işlemidir. Bu sayede hastanın uyku esnasında dişlerini aşırı sıkması engellenir, dişlerin kırılması, aşınması ve eklem ağrıları son bulur. Ayrıca yüz hatlarında incelme sağlar.",
+        "benefits": ["Diş sıkma ve gıcırdatmayı tamamen durdurur", "Diş kırılmalarını ve aşınmalarını önler", "Çene köşesindeki şişkinliği azaltarak yüzü inceltir", "Son derece ağrısız ve hızlı (5-10 dk) uygulama"]
+      },
+      {
+        "title": "Gece Plağı",
+        "category": "Diğer",
+        "shortDesc": "Uyku esnasında diş sıkma ve gıcırdatmanın dişe ve ekleme vereceği zararı önleyen koruyucu plak.",
+        "longDesc": "Gece plağı (bruksizm plağı), uyurken dişlerini sıkan veya gıcırdatan hastaların dişlerinin birbirine sürtmesini ve aşırı dikey kuvvet binmesini engellemek amacıyla kişiye özel hazırlanan şeffaf apareylerdir. Dijital veya klasik ölçüye uygun olarak sert veya yarı sert malzemeden üretilir. Dişlerin minesini ve eklemi korur.",
+        "benefits": ["Diş minesinin aşınmasını ve hassasiyetini önler", "Restorasyon ve dolguların kırılmasını engeller", "Sabahları hissedilen çene ve baş ağrısını dindirir", "Taşıması kolay, son derece hijyeniktir"]
+      }
+    ],
+    "cta": {
+      "title": "Hangi Tedavi Size Uygun?",
+      "titleHighlight": "Birlikte Karar Verelim",
+      "subtitle": "Ücretsiz ilk konsültasyon ile uzman hekimlerimizle tanışın, ağız sağlığınızı değerlendirip size en uygun tedavi planını oluşturalım.",
+      "button": "Randevu Al"
+    }
+  },
+  "doctorsPage": {
+    "hero": {
+      "badge": "Hekimlerimiz",
+      "title": "Uzman Kadromuzla",
+      "titleHighlight": "Tanışın",
+      "subtitle": "Yılların deneyimini modern teknoloji ile birleştiren uzman hekimlerimiz, gülüşünüzü yeniden tasarlıyor."
+    },
+    "expertiseLabel": "Uzmanlık Alanları",
+    "appointmentButton": "Randevu Al",
+    "doctors": [
+      {
+        "name": "Dt. Esra Nehir Altıçek",
+        "title": "Klinik Kurucu & Genel Diş Hekimi",
+        "bio": "2014 yılında Hacettepe Üniversitesi Diş Hekimliği Fakültesi'nden mezun olan Dt. Esra Nehir Altıçek, implantoloji ve estetik diş hekimliği alanlarında yurt içi ve yurt dışı eğitimler almıştır. Dentpol Söğütönü'nün kurucusu olarak kliniği, hasta odaklı ve dijital diş hekimliği vizyonuyla büyütmektedir.",
+        "specialties": ["İmplantoloji", "Estetik Diş Hekimliği", "Dijital Gülüş Tasarımı", "Genel Diş Hekimliği"]
+      },
+      {
+        "name": "Uzm. Dt. Ayşe Demir",
+        "title": "Pedodonti Uzmanı",
+        "bio": "Çocuk diş hekimliği alanında ihtisas yapmış olan Uzm. Dt. Ayşe Demir, çocuklarda diş korkusunu en aza indirgemeye yönelik özel iletişim teknikleri ve oyun destekli tedavi yöntemleriyle tanınmaktadır. Küçük hastalarına en konforlu ve güvenli tedavi ortamını sunmak onun önceliğidir.",
+        "specialties": ["Çocuk Diş Hekimliği", "Fissür Örtücü", "Flor Uygulaması", "Süt Dişi Tedavileri"]
+      },
+      {
+        "name": "Uzm. Dt. Mehmet Çelik",
+        "title": "Ortodonti Uzmanı",
+        "bio": "Ege Üniversitesi'nde ortodonti uzmanlığını tamamlayan Uzm. Dt. Mehmet Çelik, şeffaf plak (Invisalign) ve modern sabit ortodonti tedavileri konusunda ileri düzey sertifikalara sahiptir. Her yaştan hastasına özelleştirilmiş tedavi planları uygulamaktadır.",
+        "specialties": ["Ortodonti", "Şeffaf Plak (Invisalign)", "Çeneler Arası Uyum", "Retansiyon Tedavileri"]
+      }
+    ],
+    "cta": {
+      "title": "Randevu Almak için",
+      "titleHighlight": "Bizi Arayın",
+      "subtitle": "Uzman hekimlerimizden biriyle görüşmek için hemen randevu alabilirsiniz.",
+      "button": "Randevu Al"
+    }
+  },
+  "gallery": {
+    "badge": "Kliniğimiz",
+    "title": "Modern ve Konforlu",
+    "titleHighlight": "Tedavi Ortamımız",
+    "subtitle": "Hijyen, teknoloji ve estetiği bir arada sunan kliniğimizi keşfedin."
+  },
+  "appointment": {
+    "badge": "Online Randevu",
+    "title": "Randevu",
+    "titleHighlight": "Talep Edin",
+    "subtitle": "Formu doldurun, sizi en kısa sürede arayalım.",
+    "name": "Ad Soyad",
+    "namePlaceholder": "Adınızı ve soyadınızı girin",
+    "phone": "Telefon",
+    "phonePlaceholder": "05XX XXX XX XX",
+    "service": "Tedavi Konusu",
+    "servicePlaceholder": "Hangi konuda bilgi almak istiyorsunuz?",
+    "date": "Tercih Ettiğiniz Tarih",
+    "note": "Notunuz",
+    "notePlaceholder": "Eklemek istediğiniz bilgiler...",
+    "submit": "Randevu Talep Et",
+    "success": "Talebiniz alındı! En kısa sürede sizi arayacağız.",
+    "services": ["İmplant", "Gömülü Diş Çekimi", "Zigomatik İmplant", "Kanal Tedavisi", "Ortodontik Tedavi", "Şeffaf Plak (Invisalign)", "Çocuk Diş Tedavisi", "Diş Eti Tedavisi", "Air Flow Uygulaması", "Zirkonyum Kaplama", "Diş Köprüsü", "İmplant Üstü Protezler", "All-on-Four", "All-on-Six", "Overdenture", "Protez Diş Tedavisi", "Diş Beyazlatma", "Lamina", "Gülüş Tasarımı", "Çene Eklemi", "Dijital Diş Hekimliği", "Masseter Botoks", "Gece Plağı", "Diğer"]
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "İletişim",
+      "title": "Bize",
+      "titleHighlight": "Ulaşın",
+      "subtitle": "Randevu almak veya bilgi edinmek için aşağıdaki iletişim bilgilerini kullanabilir ya da formu doldurabilirsiniz."
+    },
+    "infoTitle": "İletişim Bilgileri",
+    "howToTitle": "Nasıl Ulaşırım?",
+    "appointmentTitle": "Randevu",
+    "appointmentHighlight": "Talep Edin",
+    "appointmentSubtitle": "Formu doldurun, uzman hekimlerimiz en kısa sürede sizi arasın.",
+    "phoneValue": "0222 502 00 26",
+    "emailValue": "bilgi@dentpol.com.tr",
+    "mapLink": "Google Haritalar'da Görüntüle",
+    "whatsapp": "WhatsApp ile Yaz"
+  }
+}

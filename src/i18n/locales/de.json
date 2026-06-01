@@ -1,0 +1,386 @@
+{
+  "nav": {
+    "about": "Über Uns",
+    "services": "Behandlungen",
+    "doctors": "Unsere Ärzte",
+    "articles": "Artikel",
+    "contact": "Kontakt",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "Ihr Lächeln ist",
+    "titleHighlight": "Ihr Selbstvertrauen",
+    "subtitle": "Erreichen Sie das gesunde Lächeln Ihrer Träume mit moderner, ethischer und patientenorientierter digitaler Zahnmedizin bei Dentpol Söğütönü.",
+    "primaryButton": "Termin Buchen",
+    "secondaryButton": "Unsere Leistungen"
+  },
+  "services": {
+    "badge": "Unsere Fachgebiete",
+    "title": "Zahnärztliche ",
+    "titleHighlight": "Behandlungen",
+    "subtitle": "Von Ästhetik bis Chirurgie, von Kieferorthopädie bis Implantate — wir stehen an Ihrer Seite.",
+    "filterAll": "Alle",
+    "learnMore": "Mehr Erfahren",
+    "items": [
+      { "title": "Zahnimplantate", "category": "Chirurgie", "desc": "Dauerhafte, natürliche und ästhetische Lösung für fehlende Zähne. Titan-Implantate der neuesten Generation." },
+      { "title": "Operative Zahnentfernung", "category": "Chirurgie", "desc": "Sichere operative Entfernung von impaktierten Weisheitszähnen und nicht durchbrechenden Zähnen." },
+      { "title": "Zygoma-Implantate", "category": "Chirurgie", "desc": "Spezielle Jochbein-verankerte Implantate für extremen Knochenverlust im Oberkiefer." },
+      { "title": "Wurzelkanalbehandlung", "category": "Endodontie", "desc": "Moderne endodontische Behandlung zur schmerzfreien Rettung infizierter Zähne." },
+      { "title": "Kieferorthopädie", "category": "Kieferorthopädie", "desc": "Korrektur von Zahnfehlstellungen und Kieferbeziehungen mit Metall- oder Keramikspangen." },
+      { "title": "Unsichtbare Aligner (Invisalign)", "category": "Kieferorthopädie", "desc": "Komfortable Zahnkorrektur mit komplett unsichtbaren und herausnehmbaren Alignern." },
+      { "title": "Kinderzahnheilkunde", "category": "Kinderzahnheilkunde", "desc": "Spezielle kindgerechte Vorsorge, Kariesprophylaxe, Fluoridierung und Milchzahnfüllungen." },
+      { "title": "Zahnfleischbehandlung", "category": "Parodontologie", "desc": "Professionelle Therapie gegen Parodontitis, die Zahnfleischbluten, Rückgang und Knochenabbau verursacht." },
+      { "title": "Air Flow Reinigung", "category": "Parodontologie", "desc": "Tiefenreinigung hartnäckiger Flecken und Plaque mittels Luft-Wasser-Pulverstrahl." },
+      { "title": "Zirkon-Verblendungen", "category": "Prothetik", "desc": "Metallfreie, hochästhetische Zirkonkronen für eine natürliche Lichtdurchlässigkeit." },
+      { "title": "Zahnbrücke", "category": "Prothetik", "desc": "Klassische feste Restauration zur Überbrückung von Lücken durch fehlende Zähne." },
+      { "title": "Implantatgetragene Prothesen", "category": "Prothetik", "desc": "Festsitzende oder herausnehmbare Prothesen auf Implantaten für maximalen Halt." },
+      { "title": "All-on-Four", "category": "Prothetik", "desc": "Festgelegtes Protokoll für sofort festsitzende Zähne am selben Tag mit nur 4 Implantaten." },
+      { "title": "All-on-Six", "category": "Prothetik", "desc": "Feste Hybridbrücke auf 6 Implantaten für höchste Kaukraft und Stabilität." },
+      { "title": "Overdenture-Prothesen", "category": "Prothetik", "desc": "Druckknopf-Prothesen mit erhöhtem Halt, getragen von wenigen Zähnen oder Implantaten." },
+      { "title": "Zahnprothetik", "category": "Prothetik", "desc": "Maßgeschneiderte festsitzende oder herausnehmbare Arbeiten zur Wiederherstellung der Kaukraft." },
+      { "title": "Zahnaufhellung (Bleaching)", "category": "Ästhetik", "desc": "Schonendes In-Office-Laserbleaching oder Schienen für ein strahlend weißes Lächeln." },
+      { "title": "Lumineers / Veneers", "category": "Ästhetik", "desc": "Hauchdünne Porzellan-Veneers auf der Zahnvorderseite mit minimalem Abtrag." },
+      { "title": "Lächeln-Design", "category": "Ästhetik", "desc": "Digitale Analyse und ästhetische Planung Ihres Traumlächelns passend zu Ihren Gesichtszügen." },
+      { "title": "Kiefergelenktherapie (CMD)", "category": "Andere", "desc": "CMD-Schienentherapien gegen Zähneknirschen, Kiefergelenkschmerzen und Knacken." },
+      { "title": "Digitale Zahnmedizin", "category": "Andere", "desc": "Schnelle, präzise und angenehme 3D-Intraoral-Scans und CAD/CAM-Restaurationen." },
+      { "title": "Masseter-Botox", "category": "Andere", "desc": "Entspannung des Kaumuskels mittels Botox gegen Bruxismus (Zähneknirschen)." },
+      { "title": "Aufbissschiene (Knirscherschiene)", "category": "Andere", "desc": "Individuelle transparente Schiene zum Schutz von Zähnen und Gelenken in der Nacht." }
+    ],
+    "categories": ["Alle", "Chirurgie", "Endodontie", "Kieferorthopädie", "Kinderzahnheilkunde", "Parodontologie", "Prothetik", "Ästhetik", "Andere"]
+  },
+  "features": {
+    "title": "Warum Dentpol Söğütönü?",
+    "subtitle": "Wir bieten Ihnen eine innovative, zuverlässige und komfortable Erfahrung für Ihre Mundgesundheit in Eskişehir.",
+    "items": [
+      { "title": "Digitale Zahnmedizin", "desc": "Komfortable, schnelle und fehlerfreie Behandlungsplanung mit 3D-Intraoral-Scannern und modernen Geräten." },
+      { "title": "Sterilisation auf höchstem Niveau", "desc": "Eine maximal sichere Behandlungsumgebung mit Sterilisationsprotokollen nach internationalen Standards." },
+      { "title": "Behandlung am selben Tag", "desc": "Wir minimieren die Wartezeit für Zirkon- und Prothesenarbeiten mit unserer eigenen Laborinfrastruktur." },
+      { "title": "Patientenorientierter Komfort", "desc": "Wir haben an jedes Detail gedacht, damit Sie Ihre Behandlung in einer ruhigen und angenehmen Umgebung verbringen können." }
+    ]
+  },
+  "about": {
+    "badge": "Wer sind wir?",
+    "title": "Ein neuer Generationsansatz",
+    "titleHighlight": "in der modernen Zahnmedizin",
+    "description": "Als Dentpol Söğütönü Zahn- und Mundgesundheitsklinik sind wir in Eskişehir tätig, um Ihre Mundgesundheit zu schützen, zu behandeln und Ihnen ein selbstbewusstes Lächeln zu verleihen. Unter der Leitung von Dr. Esra Nehir Altıçek sichern wir Ihre Gesundheit mit aktuellen Behandlungsansätzen und digitalen Technologien.",
+    "learnMore": "Mehr über uns erfahren",
+    "features": [
+      "Digitale Zahnmedizin-Infrastruktur",
+      "Patientenorientierte, personalisierte Behandlung",
+      "Sterile und sichere klinische Umgebung",
+      "Ethische und transparente Preisgestaltung"
+    ]
+  },
+  "location": {
+    "title": "Lage & Kontakt",
+    "subtitle": "Erreichen Sie unsere Klinik ganz einfach. Wir freuen uns, Sie zu empfangen.",
+    "contactTitle": "Kontaktieren Sie uns",
+    "address": "Adresse",
+    "addressValue": "Aşağı Söğütönü Mah. 1528. Sk. No: 4/A Tepebaşı / Eskişehir",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "hours": "Öffnungszeiten",
+    "hoursValue": "Mo - Sa: 09:00 - 19:00",
+    "closed": "Sonntag: Geschlossen",
+    "directions": "Route in Google Maps",
+    "howToGetThereTitle": "Wie erreiche ich die Klinik?",
+    "tramInfo": "Sie können die Straßenbahnen in Richtung SSK nehmen, an der Endstation aussteigen und bequem mit den unten aufgeführten Buslinien zu unserer Klinik umsteigen.",
+    "transportOptions": [
+      "Bus: Sie erreichen unsere Klinik mit den Linien 23, 54 und 58.",
+      "Minibus: Söğütönü - Zentrum Minibusse fahren in der Nähe unserer Klinik vorbei.",
+      "Straßenbahn: Sie können die Linie SSK - Batıkent nutzen und mit Ringbussen umsteigen."
+    ]
+  },
+  "articles": {
+    "badge": "Aktuelle Erkenntnisse",
+    "title": "Artikel zur ",
+    "titleHighlight": "Zahngesundheit",
+    "viewAll": "Alle Artikel",
+    "readMore": "Weiterlesen"
+  },
+  "footer": {
+    "description": "Selbstbewusstes Lächeln beginnt bei Dentpol Söğütönü. Ein moderner, ethischer und patientenorientierter Ansatz in der digitalen Zahnmedizin.",
+    "quickLinks": "Schnelle Links",
+    "services": "Unsere Leistungen",
+    "contact": "Kontaktiere Uns",
+    "rights": "© 2026 Dentpol Söğütönü ADSP. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzrichtlinie",
+    "cookies": "Cookie-Richtlinie"
+  },
+  "aboutPage": {
+    "hero": {
+      "badge": "Über Uns",
+      "title": "Wir Sind Für",
+      "titleHighlight": "Gesunde Lächeln Da",
+      "subtitle": "Wir begleiten Sie in Eskişehir über Jahre hinweg mit digitaler Zahnmedizin, einem ethischen Ansatz und einem patientenorientierten Verständnis."
+    },
+    "story": {
+      "badge": "Unsere Klinikgeschichte",
+      "title": "Wie Entstand",
+      "titleHighlight": "Dentpol Söğütönü?",
+      "p1": "Die Dentpol Söğütönü Zahn- und Mundgesundheitsklinik wurde mit dem Traum gegründet, eine Klinik zu schaffen, in der Patienten wirklich wertgeschätzt, richtig informiert und moderne Technologie mit menschlicher Wärme verbunden werden.",
+      "p2": "Unter der Leitung von Dr. Esra Nehir Altıçek öffnete unsere Klinik 2018 in Eskişehir Söğütönü ihre Türen und wurde schnell zu einer der vertrauenswürdigen Gesundheitsadressen der Region, mit einem Team spezialisiert auf Implantologie, ästhetische Zahnmedizin, Kieferorthopädie und digitales Lächeln-Design.",
+      "p3": "Heute setzen wir unsere Reise mit Tausenden zufriedener Patienten und einer kontinuierlich aktualisierten technologischen Infrastruktur fort. Wir sehen jeden Patienten als Individuum und erstellen maßgeschneiderte Behandlungspläne."
+    },
+    "values": {
+      "badge": "Unsere Werte",
+      "title": "Die Prinzipien",
+      "titleHighlight": "Die Uns Ausmachen",
+      "items": [
+        { "title": "Ethische Praxis", "desc": "Wir bauen Vertrauen auf, indem wir unseren Patienten stets ehrliche, transparente und wissenschaftlich fundierte Informationen liefern." },
+        { "title": "Digitaler Pionier", "desc": "Wir führen die Branche mit 3D-Scannern, CAD/CAM-Systemen und digitalem Lächeln-Design an." },
+        { "title": "Patientenkomfort", "desc": "Unsere Klinik bietet eine sorgfältig gestaltete Umgebung, um Angst zu reduzieren und den Seelenfrieden zu steigern." },
+        { "title": "Personalisierte Behandlung", "desc": "Jeder Patient hat eine andere Mundstruktur, Erwartungen und Lebensstil. Der Behandlungsplan wird entsprechend gestaltet." },
+        { "title": "Sterilisationspriorität", "desc": "Alle Instrumente werden gemäß internationalen Protokollen sterilisiert, um die Patientensicherheit auf höchstem Niveau zu halten." },
+        { "title": "Kontinuierliche Verbesserung", "desc": "Unser Team hält sich mit Kongressen, Fachausbildungen und wissenschaftlichen Publikationen stets aktuell." }
+      ]
+    },
+    "cta": {
+      "title": "Machen Sie den ersten Schritt",
+      "titleHighlight": "für ein gesundes Lächeln",
+      "subtitle": "Lernen Sie unser Expertenteam kennen, stellen Sie Ihre Fragen und lassen Sie uns Ihren personalisierten Behandlungsplan erstellen.",
+      "primaryButton": "Termin Buchen",
+      "secondaryButton": "Kontaktieren Sie Uns"
+    }
+  },
+  "treatmentsPage": {
+    "hero": {
+      "badge": "Unsere Behandlungen",
+      "title": "Umfassende",
+      "titleHighlight": "Zahngesundheitsdienste",
+      "subtitle": "Von Implantaten bis zur ästhetischen Zahnheilkunde, von der Kieferorthopädie bis zur Wurzelkanalbehandlung – wir stehen Ihnen mit einem breiten Fachspektrum zur Seite."
+    },
+    "detailTitle": "Behandlungsdetails",
+    "items": [
+      {
+        "title": "Zahnimplantate",
+        "category": "Chirurgie",
+        "shortDesc": "Dauerhafte, natürliche und ästhetische Lösung für fehlende Zähne. Titan-Implantate der neuesten Generation.",
+        "longDesc": "Die Implantattherapie umfasst das Einsetzen biokompatibler Titanpfosten in den Kieferknochen als künstliche Zahnwurzeln. Nach der Osseointegration werden Kronen oder Brücken befestigt, um Funktion und Ästhetik dauerhaft wiederherzustellen.",
+        "benefits": ["Nachbarzähne bleiben unberührt", "Natürlichstes Kaugegefühl", "Verhindert Knochenabbau", "Langlebige Lösung"]
+      },
+      {
+        "title": "Operative Zahnentfernung",
+        "category": "Chirurgie",
+        "shortDesc": "Sichere operative Entfernung von impaktierten Weisheitszähnen und nicht durchbrechenden Zähnen.",
+        "longDesc": "Operative Zahnentfernung betrifft Zähne, die im Kiefer oder unter dem Zahnfleisch eingeschlossen sind. Häufig notwendig bei Weisheitszähnen, um Schmerzen, Zysten, Infektionen oder Schäden an Nachbarzähnen zu verhindern.",
+        "benefits": ["Beseitigt Schmerz- und Schwellungsrisiken", "Schützt die Wurzeln der Nachbarzähne", "Entfernt aktive Infektionsherde", "Vermeidet Zahnengstände"]
+      },
+      {
+        "title": "Zygoma-Implantate",
+        "category": "Chirurgie",
+        "shortDesc": "Spezielle Jochbein-verankerte Implantate für extremen Knochenverlust im Oberkiefer.",
+        "longDesc": "Zygomatische Implantate sind extralange Spezialimplantate, die bei extremem Knochenschwund im Oberkiefer direkt im Jochbein (Os zygomaticum) verankert werden. Dies macht langwierigen Knochenaufbau überflüssig und ermöglicht Sofortversorgung.",
+        "benefits": ["Kein Sinuslift oder Knochenaufbau nötig", "Festsitzende Zähne am selben Tag", "Lösung bei extremem Knochenschwund", "Sichere, bewährte Methode"]
+      },
+      {
+        "title": "Wurzelkanalbehandlung",
+        "category": "Endodontie",
+        "shortDesc": "Moderne endodontische Behandlung zur schmerzfreien Rettung infizierter Zähne.",
+        "longDesc": "Die Wurzelkanalbehandlung (Endodontie) dient der Rettung eines Zahnes, dessen Nerv (Pulpa) durch tiefe Karies oder Frakturen entzündet oder infiziert ist. Der Kanal wird gereinigt, desinfiziert und bakteriendicht verschlossen.",
+        "benefits": ["Erhält den eigenen natürlichen Zahn", "Lindert akute Zahnschmerzen sofort", "Stoppt Ausbreitung der Infektion", "Vermeidet Zahnentfernung"]
+      },
+      {
+        "title": "Kieferorthopädie",
+        "category": "Kieferorthopädie",
+        "shortDesc": "Korrektur von Zahnfehlstellungen und Kieferbeziehungen mit Metall- oder Keramikspangen.",
+        "longDesc": "Klassische Kieferorthopädie korrigiert Zahnengstände, Lücken und Fehlbisse. Durch Metall- oder ästhetische Keramikbrackets werden die Zähne sanft in die optimale biologische Position bewegt, um Kaufunktion und Ästhetik zu verbessern.",
+        "benefits": ["Behebt auch schwere Zahnengstände", "Verbessert Kauen und Sprechen", "Erleichtert die tägliche Zahnpflege", "Sorgt für ein harmonisches Lächeln"]
+      },
+      {
+        "title": "Unsichtbare Aligner (Invisalign)",
+        "category": "Kieferorthopädie",
+        "shortDesc": "Komfortable Zahnkorrektur mit komplett unsichtbaren und herausnehmbaren Alignern.",
+        "longDesc": "Transparente Aligner (wie Invisalign) korrigieren Zahnfehlstellungen drahtlos über eine Reihe individuell computergenerierter, transparenter Kunststoffschienen. Sie sind zum Essen und Zähneputzen herausnehmbar, was maximale Hygiene bietet.",
+        "benefits": ["Nahezu unsichtbar und hochästhetisch", "Herausnehmbar zum Essen und für Termine", "Einfache Mundhygiene und Zahnpflege", "Keine störenden Metalldrähte"]
+      },
+      {
+        "title": "Kinderzahnheilkunde",
+        "category": "Kinderzahnheilkunde",
+        "shortDesc": "Spezielle kindgerechte Vorsorge, Kariesprophylaxe, Fluoridierung und Milchzahnfüllungen.",
+        "longDesc": "Die Pädodontie umfasst die zahnärztliche Betreuung von Kindern und Jugendlichen. Unser Ziel ist eine angstfreie, spielerische Behandlung. Mit Fissurenversiegelung, Fluoridierung und Milchzahnfüllungen legen wir den Grundstein für gesunde Zähne.",
+        "benefits": ["Vermeidet frühzeitige Zahnarztangst", "Stärkt den Zahnschmelz gegen Karies", "Erhält Milchzähne als Platzhalter", "Fördert gesunde Putzgewohnheiten"]
+      },
+      {
+        "title": "Zahnfleischbehandlung",
+        "category": "Parodontologie",
+        "shortDesc": "Professionelle Therapie gegen Parodontitis, die Zahnfleischbluten, Rückgang und Knochenabbau verursacht.",
+        "longDesc": "Die Parodontologie widmet sich der Behandlung von Entzündungen des Zahnhalteapparates. Von Gingivitis bis fortgeschrittener Parodontitis stoppen wir den Knochenabbau und Zahnfleischrückgang durch gründliche Tiefenreinigung (Scaling) und Keimreduktion.",
+        "benefits": ["Stoppt Zahnfleischbluten und Mundgeruch", "Kontrolliert Zahnfleischrückgang", "Verhindert weiteren Knochenabbau", "Sichert lockere Zähne vor Ausfall"]
+      },
+      {
+        "title": "Air Flow Reinigung",
+        "category": "Parodontologie",
+        "shortDesc": "Tiefenreinigung hartnäckiger Flecken und Plaque mittels Luft-Wasser-Pulverstrahl.",
+        "longDesc": "Das Air Flow-System entfernt hartnäckige Zahnverfärbungen (durch Kaffee, Tee, Rotwein, Nikotin) und bakterielle Biofilme. Ein Strahl aus Wasser, Luft und feinem Pulver reinigt selbst schwer zugängliche Zahnzwischenräume schonend und effektiv.",
+        "benefits": ["Entfernt hartnäckige Kaffee- und Teeverfärbungen", "Sehr schonend zum natürlichen Zahnschmelz", "Vollkommen schmerzfrei und schnell", "Sorgt für sofortige Frische und Glanz"]
+      },
+      {
+        "title": "Zirkon-Verblendungen",
+        "category": "Prothetik",
+        "shortDesc": "Metallfreie, hochästhetische Zirkonkronen für eine natürliche Lichtdurchlässigkeit.",
+        "longDesc": "Zirkonkaplamas und -kronen bestehen aus biokompatiblem Zirkoniumdioxid, einem extrem festen, weißen Keramikwerkstoff. Da sie ohne Metallkern auskommen, pflegen sie eine natürliche Lichtdurchlässigkeit ohne graue Ränder am Zahnfleisch.",
+        "benefits": ["100 % metallfrei und hypoallergen", "Keine grauen Schatten oder Ränder am Zahnfleisch", "Natürlich transluzente Zahnästhetik", "Extreme Festigkeit, ideal für Front- und Seitenzähne"]
+      },
+      {
+        "title": "Zahnbrücke",
+        "category": "Prothetik",
+        "shortDesc": "Klassische feste Restauration zur Überbrückung von Lücken durch fehlende Zähne.",
+        "longDesc": "Eine Zahnbrücke schließt Lücken fest. Sie wird an Nachbarzähnen (Pfeilerzähnen) verankert, die dafür überkront werden, und trägt das Brückenglied. Sie stellt die Kaufunktion wieder her und verhindert, dass sich Nachbarzähne in die Lücke verschieben.",
+        "benefits": ["Schnelle und bewährte prothetische Lösung", "Stellt die Kaukraft sofort wieder her", "Behebt durch Zahnlücken bedingte Sprachfehler", "Stabilisiert die Position der Nachbarzähne"]
+      },
+      {
+        "title": "Implantatgetragene Prothesen",
+        "category": "Prothetik",
+        "shortDesc": "Festsitzende oder herausnehmbare Prothesen auf Implantaten für maximalen Halt.",
+        "longDesc": "Diese Prothesen werden sicher auf Implantaten verankert (mittels Druckknöpfen/Locatoren, Stegen oder Teleskopen). Im Gegensatz zu herkömmlichen Prothesen verrutschen sie nicht, verhindern Druckstellen und stellen das Kaugegefühl vollkommen wieder her.",
+        "benefits": ["Kein Verrutschen oder Herausfallen beim Essen", "Stellt die volle Kaufunktion und Sprache wieder her", "Gaumenfreie Gestaltung erhält den Geschmackssinn", "Fühlt sich absolut sicher und natürlich an"]
+      },
+      {
+        "title": "All-on-Four",
+        "category": "Prothetik",
+        "shortDesc": "Festgelegtes Protokoll für sofort festsitzende Zähne am selben Tag mit nur 4 Implantaten.",
+        "longDesc": "Das All-on-Four-Konzept ermöglicht die Sofortversorgung zahnloser Kiefer. Durch das Einsetzen von genau 4 Implantaten (zwei gerade vorne, zwei abgewinkelt hinten zur optimalen Knochennutzung) kann am selben Tag eine feste provisorische Brücke verschraubt werden.",
+        "benefits": ["Feste Zähne am selben Tag", "Kostengünstig durch weniger Implantate", "Vermeidet oft aufwendigen Knochenaufbau", "Schnelle Heilung und sofortiger Komfort"]
+      },
+      {
+        "title": "All-on-Six",
+        "category": "Prothetik",
+        "shortDesc": "Feste Hybridbrücke auf 6 Implantaten für höchste Kaukraft und Stabilität.",
+        "longDesc": "Das All-on-Six-Verfahren ist die ideale Lösung bei zahnlosem Kiefer mit gutem Knochenangebot. Sechs Implantate tragen eine festsitzende, verschraubte Brücke. Durch die höhere Anzahl an Pfeilern wird der Kaudruck optimal verteilt, was maximale Haltbarkeit sichert.",
+        "benefits": ["Höchste Kaukraft und ultimative Stabilität", "Optimale Lastverteilung für lange Haltbarkeit", "Ästhetisch nicht von echten Zähnen zu unterscheiden", "100 % festsitzender, unverrückbarer Zahnersatz"]
+      },
+      {
+        "title": "Overdenture-Prothesen",
+        "category": "Prothetik",
+        "shortDesc": "Druckknopf-Prothesen mit erhöhtem Halt, getragen von wenigen Zähnen oder Implantaten.",
+        "longDesc": "Eine Overdenture (Deckprothese) ist ein herausnehmbarer, hochgradig stabiler Zahnersatz, der über verbliebenen Zahnwurzeln oder wenigen Implantaten (meist 2-4) sitzt. Mittels Druckknopfsystemen klickt die Prothese fest ein, lässt sich aber leicht zur Reinigung entnehmen.",
+        "benefits": ["Verhindert das Wackeln der Prothese effektiv", "Reduziert Druckstellen und Reibungsschmerzen", "Schont Kieferknochen durch Erhalt von Wurzeln", "Sehr einfache Pflege und Reinigung"]
+      },
+      {
+        "title": "Zahnprothetik",
+        "category": "Prothetik",
+        "shortDesc": "Maßgeschneiderte festsitzende oder herausnehmbare Arbeiten zur Wiederherstellung der Kaukraft.",
+        "longDesc": "Die Prothetik umfasst alle künstlichen Restaurationen zum Ersatz fehlender Zähne. Von klassischen Vollprothesen über Teilprothesen bis hin zu modernen Geschiebe-Restaurationen wird jeder Zahnersatz individuell gefertigt, um Kauen und Ästhetik zu rekonstruieren.",
+        "benefits": ["Verhindert das Einfallen der Gesichtszüge", "Korrigiert Ausspracheprobleme durch Zahnverlust", "Stellt eine ausgeglichene Kaufunktion wieder her", "Vielseitige Lösungen für jedes Budget"]
+      },
+      {
+        "title": "Zahnaufhellung (Bleaching)",
+        "category": "Ästhetik",
+        "shortDesc": "Schonendes In-Office-Laserbleaching oder Schienen für ein strahlend weißes Lächeln.",
+        "longDesc": "Das Bleaching entfärbt organische Farbstoffe im Zahnschmelz schonend. Durch Aktivierung des Bleichgels mittels Laser oder LED-Licht in der Praxis (in unter einer Stunde) wird die Zahnfarbe sicher und schnell um mehrere Nuancen aufgehellt.",
+        "benefits": ["Schnelles Ergebnis (unter 1 Stunde in der Praxis)", "Zahnschmelzschonende Wirkstoffe", "Langanhaltendes, strahlend natürliches Weiß", "Sorgt für ein sofort attraktiveres Lächeln"]
+      },
+      {
+        "title": "Lumineers / Veneers",
+        "category": "Ästhetik",
+        "shortDesc": "Hauchdünne Porzellan-Veneers auf der Zahnvorderseite mit minimalem Abtrag.",
+        "longDesc": "Veneers sind hauchdünne, individuell gefertigte Keramikschalen, die auf die Vorderzähne geklebt werden, um Verfärbungen, Risse, leichte Fehlstellungen oder Zahnlücken zu korrigieren. Sie erfordern nur minimalen Enamel-Abtrag (0,3-0,7 mm) und wirken absolut echt.",
+        "benefits": ["Maximaler Erhalt der gesunden Zahnsubstanz", "Absolut fleckenbeständiges Keramikmaterial", "Täuschend echte, lichtdurchlässige Ästhetik", "Traumlächeln in nur 7-10 Tagen"]
+      },
+      {
+        "title": "Lächeln-Design",
+        "category": "Ästhetik",
+        "shortDesc": "Digitale Analyse und ästhetische Planung Ihres Traumlächelns passend zu Ihren Gesichtszügen.",
+        "longDesc": "Digital Smile Design nutzt hochauflösende Porträtfotos und 3D-Scans, um das perfekte Lächeln vor Behandlungsbeginn digital zu simulieren. Proportionen von Gesicht, Lippen, Zahnfleisch und Zahnfarbe werden exakt analysiert, um Veneers oder Kronen zu planen.",
+        "benefits": ["Vorschau des Ergebnisses vor Behandlungsstart", "Perfekt auf die Gesichtsästhetik abgestimmtes Design", "Harmonische Balance zwischen Zähnen und Zahnfleisch", "Individueller, strukturierter Behandlungsplan"]
+      },
+      {
+        "title": "Kiefergelenktherapie (CMD)",
+        "category": "Andere",
+        "shortDesc": "CMD-Schienentherapien gegen Zähneknirschen, Kiefergelenkschmerzen und Knacken.",
+        "longDesc": "Kiefergelenksbeschwerden äußern sich durch Knacken beim Öffnen, Kiefersperren, Kopfschmerzen oder Nackenverspannungen. Häufig verursacht durch nächtliches Zähneknirschen (Bruxismus), behandeln wir dies mit CMD-Aufbissschienen und Physiotherapie.",
+        "benefits": ["Behebt störende Kiefergelenk-Knackgeräusche", "Ermöglicht schmerzfreie Kieferbewegungen", "Lindert Spannungskopfschmerz und Nackenschmerzen", "Verhindert langfristige Gelenkschäden"]
+      },
+      {
+        "title": "Digitale Zahnmedizin",
+        "category": "Andere",
+        "shortDesc": "Schnelle, präzise und angenehme 3D-Intraoral-Scans und CAD/CAM-Restaurationen.",
+        "longDesc": "Die digitale Zahnmedizin ersetzt den unangenehmen Abdruck mit Löffel und Abdruckmasse durch hochpräzise 3D-Intraoralscanner. Kronen werden am Bildschirm designt (CAD) und direkt in der Praxis aus Vollkeramikblöcken gefräst (CAM).",
+        "benefits": ["Kein Würgereiz durch Abdruckmasse mehr", "Superschneller, hochkomfortabler 3D-Scan", "Mikrometergenaue Passpräzision", "Reduziert Behandlungsdauer und Termine deutlich"]
+      },
+      {
+        "title": "Masseter-Botox",
+        "category": "Andere",
+        "shortDesc": "Entspannung des Kaumuskels mittels Botox gegen Bruxismus (Zähneknirschen).",
+        "longDesc": "Beim Masseter-Botox wird Botulinumtoxin direkt in den großen Kaumuskel (M. masseter) injiziert. Dies mindert die unbewusste Knirschaktivität im Schlaf, schützt Zähne vor Abrieb und lindert Kieferschmerzen. Es kann auch das Gesicht optisch verschmälern.",
+        "benefits": ["Reduziert nächtliches Zähneknirschen und Pressen stark", "Schützt echten Zahnschmelz und Kronen vor Frakturen", "Entspannt die Kiefermuskulatur und verschmälert das Gesicht", "Schmerzarme, schnelle Injektion in unter 10 Minuten"]
+      },
+      {
+        "title": "Aufbissschiene (Knirscherschiene)",
+        "category": "Andere",
+        "shortDesc": "Individuelle transparente Schiene zum Schutz von Zähnen und Gelenken in der Nacht.",
+        "longDesc": "Eine Knirscherschiene ist eine maßgefertigte, transparente Kunststoffschutzschiene für die Nacht. Als Barriere zwischen den Zahnreihen fängt sie den extremen Druck beim Knirschen ab, schützt den Schmelz vor Abrieb und schont die Kiefergelenke.",
+        "benefits": ["Schützt den Zahnschmelz vor starkem Abrieb", "Verhindert das Abbrechen von Füllungen und Kronen", "Lindert morgendliche Kiefer- und Kopfschmerzen", "Sehr angenehm zu tragen und leicht zu reinigen"]
+      }
+    ],
+    "cta": {
+      "title": "Welche Behandlung ist Richtig?",
+      "titleHighlight": "Entscheiden Wir Gemeinsam",
+      "subtitle": "Lernen Sie unser Team in einer kostenlosen Erstkonsultation kennen.",
+      "button": "Termin Buchen"
+    }
+  },
+  "doctorsPage": {
+    "hero": {
+      "badge": "Unsere Ärzte",
+      "title": "Lernen Sie Unser",
+      "titleHighlight": "Expertenteam Kennen",
+      "subtitle": "Unsere Spezialisten, die jahrelange Erfahrung mit moderner Technologie verbinden, gestalten Ihr Lächeln neu."
+    },
+    "expertiseLabel": "Fachgebiete",
+    "appointmentButton": "Termin Buchen",
+    "doctors": [
+      { "name": "Dt. Esra Nehir Altıçek", "title": "Klinikgründerin & Allgemeinzahnarztärztin", "bio": "Dt. Esra Nehir Altıçek schloss 2014 ihr Studium an der Fakultät für Zahnmedizin der Hacettepe-Universität ab und erhielt Aus- und Fortbildungen in Implantologie und ästhetischer Zahnmedizin. Als Gründerin von Dentpol Söğütönü entwickelt sie die Klinik mit einer patientenorientierten und digitalen Vision.", "specialties": ["Implantologie", "Ästhetische Zahnmedizin", "Digitales Lächeln-Design", "Allgemeine Zahnmedizin"] },
+      { "name": "Fachzahnärztin Dt. Ayşe Demir", "title": "Fachzahnärztin für Kinderzahnheilkunde", "bio": "Fachzahnärztin Dt. Ayşe Demir, die sich auf Kinderzahnheilkunde spezialisiert hat, ist für spezielle Kommunikationstechniken und spielunterstützte Behandlungsmethoden bekannt, die die Zahnarztangst bei Kindern minimieren.", "specialties": ["Kinderzahnheilkunde", "Fissurenversiegelung", "Fluoridanwendung", "Milchzahnbehandlungen"] },
+      { "name": "Fachzahnarzt Dt. Mehmet Çelik", "title": "Fachzahnarzt für Kieferorthopädie", "bio": "Fachzahnarzt Dt. Mehmet Çelik schloss seine Kieferorthopädie-Spezialisierung an der Ege-Universität ab und verfügt über fortgeschrittene Zertifikate in transparenten Alignern (Invisalign) und modernen Festkieferorthopädie-Behandlungen.", "specialties": ["Kieferorthopädie", "Transparente Aligner (Invisalign)", "Kieferausrichtung", "Retentionsbehandlungen"] }
+    ],
+    "cta": {
+      "title": "Für einen Termin",
+      "titleHighlight": "Rufen Sie Uns An",
+      "subtitle": "Sie können sofort einen Termin bei einem unserer Spezialisten vereinbaren.",
+      "button": "Termin Buchen"
+    }
+  },
+  "gallery": {
+    "badge": "Unsere Klinik",
+    "title": "Moderne & Komfortable",
+    "titleHighlight": "Behandlungsumgebung",
+    "subtitle": "Entdecken Sie unsere Klinik, die Hygiene, Technologie und Ästhetik vereint."
+  },
+  "appointment": {
+    "badge": "Online Termin",
+    "title": "Termin",
+    "titleHighlight": "Anfragen",
+    "subtitle": "Füllen Sie das Formular aus und wir rufen Sie so schnell wie möglich zurück.",
+    "name": "Vollständiger Name",
+    "namePlaceholder": "Geben Sie Ihren vollständigen Namen ein",
+    "phone": "Telefon",
+    "phonePlaceholder": "+90 5XX XXX XX XX",
+    "service": "Behandlungsthema",
+    "servicePlaceholder": "Worüber möchten Sie sich informieren?",
+    "date": "Bevorzugtes Datum",
+    "note": "Ihre Notiz",
+    "notePlaceholder": "Zusätzliche Informationen...",
+    "submit": "Termin Anfragen",
+    "success": "Ihre Anfrage wurde erhalten! Wir rufen Sie so bald wie möglich zurück.",
+    "services": ["Zahnimplantate", "Operative Zahnentfernung", "Zygoma-Implantate", "Wurzelkanalbehandlung", "Kieferorthopädie", "Unsichtbare Aligner (Invisalign)", "Kinderzahnheilkunde", "Zahnfleischbehandlung", "Air Flow Reinigung", "Zirkon-Verblendungen", "Zahnbrücke", "Implantatgetragene Prothesen", "All-on-Four", "All-on-Six", "Overdenture-Prothesen", "Zahnprothetik", "Zahnaufhellung (Bleaching)", "Lumineers / Veneers", "Lächeln-Design", "Kiefergelenktherapie (CMD)", "Digitale Zahnmedizin", "Masseter-Botox", "Aufbissschiene (Knirscherschiene)", "Sonstiges"]
+  },
+  "contactPage": {
+    "hero": {
+      "badge": "Kontakt",
+      "title": "Kontaktieren",
+      "titleHighlight": "Sie Uns",
+      "subtitle": "Vereinbaren Sie einen Termin oder erhalten Sie Informationen über die untenstehenden Kontaktdaten oder füllen Sie das Formular aus."
+    },
+    "infoTitle": "Kontaktinformationen",
+    "howToTitle": "Wie komme ich hin?",
+    "appointmentTitle": "Termin",
+    "appointmentHighlight": "Vereinbaren",
+    "appointmentSubtitle": "Füllen Sie das Formular aus und unser Expertenteam ruft Sie so bald wie möglich zurück.",
+    "phoneValue": "0222 502 00 26",
+    "emailValue": "bilgi@dentpol.com.tr",
+    "mapLink": "Auf Google Maps anzeigen",
+    "whatsapp": "Per WhatsApp schreiben"
+  }
+}
